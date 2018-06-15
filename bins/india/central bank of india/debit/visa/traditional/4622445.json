@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CENTRAL BANK OF INDIA", 
+        "phone": "(+91) 022 22824011 OR 044 - 28554792 OR 4692 OR 4620", 
+        "url": "www.centralbankofindia.co.in"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "PUBLIC", 
+        "phone": "0321768000"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "MY", 
+        "currency": "MYR", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfe", 
+        "latitude": 2.5, 
+        "longitude": 112.5, 
+        "name": "Malaysia", 
+        "numeric": "458"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

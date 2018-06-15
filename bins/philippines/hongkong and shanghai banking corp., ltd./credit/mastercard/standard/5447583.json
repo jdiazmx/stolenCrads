@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.", 
+        "phone": "(+632) 757-3925 TO 30", 
+        "url": "www.hsbc.com.ph"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "PH", 
+        "currency": "PHP", 
+        "emoji": "\ud83c\uddf5\ud83c\udded", 
+        "latitude": 13, 
+        "longitude": 122, 
+        "name": "Philippines", 
+        "numeric": "608"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

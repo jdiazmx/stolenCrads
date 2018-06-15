@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "HSBC", 
+        "phone": "800.975.4722", 
+        "url": "www.us.hsbc.com"
+    }, 
+    "brand": "Unembossed Prepaid Student", 
+    "country": {
+        "alpha2": "NG", 
+        "currency": "NGN", 
+        "emoji": "\ud83c\uddf3\ud83c\uddec", 
+        "latitude": 10, 
+        "longitude": 8, 
+        "name": "Nigeria", 
+        "numeric": "566"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

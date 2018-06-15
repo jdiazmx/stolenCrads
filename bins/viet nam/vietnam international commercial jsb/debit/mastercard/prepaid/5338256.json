@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "VIETNAM INTERNATIONAL COMMERCIAL JSB", 
+        "phone": "84 8 3821 0055", 
+        "url": "www.eximbank.com.vn"
+    }, 
+    "brand": "Prepaid", 
+    "country": {
+        "alpha2": "VN", 
+        "currency": "VND", 
+        "emoji": "\ud83c\uddfb\ud83c\uddf3", 
+        "latitude": 16, 
+        "longitude": 106, 
+        "name": "Viet Nam", 
+        "numeric": "704"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

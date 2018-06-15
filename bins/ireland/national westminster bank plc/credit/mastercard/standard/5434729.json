@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "NATIONAL WESTMINSTER BANK PLC", 
+        "phone": "44 20 7085 5000", 
+        "url": "www.natwest.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "IE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddea", 
+        "latitude": 53, 
+        "longitude": -8, 
+        "name": "Ireland", 
+        "numeric": "372"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

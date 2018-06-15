@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO DE VENEZUELA, S.A.", 
+        "phone": "501 642 5283", 
+        "url": "www.bancodevenezuela.com"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "VE", 
+        "currency": "VEF", 
+        "emoji": "\ud83c\uddfb\ud83c\uddea", 
+        "latitude": 8, 
+        "longitude": -66, 
+        "name": "Venezuela (Bolivarian Republic of)", 
+        "numeric": "862"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

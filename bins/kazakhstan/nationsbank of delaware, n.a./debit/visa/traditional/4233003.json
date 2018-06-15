@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "NATIONSBANK OF DELAWARE, N.A.", 
+        "phone": "(302) 741-1161"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "KZ", 
+        "currency": "KZT", 
+        "emoji": "\ud83c\uddf0\ud83c\uddff", 
+        "latitude": 48, 
+        "longitude": 68, 
+        "name": "Kazakhstan", 
+        "numeric": "398"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

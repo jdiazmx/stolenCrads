@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "PNC BANK, N.A.", 
+        "phone": "888-762-2265", 
+        "url": "www.pnc.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "SZ", 
+        "currency": "SZL", 
+        "emoji": "\ud83c\uddf8\ud83c\uddff", 
+        "latitude": -26.5, 
+        "longitude": 31.5, 
+        "name": "Swaziland", 
+        "numeric": "748"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

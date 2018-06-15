@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ZAGREBACKA BANKA BH D.D.", 
+        "phone": "01 3789 789", 
+        "url": "www.zaba.hr"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "HR", 
+        "currency": "HRK", 
+        "emoji": "\ud83c\udded\ud83c\uddf7", 
+        "latitude": 45.1667, 
+        "longitude": 15.5, 
+        "name": "Croatia", 
+        "numeric": "191"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

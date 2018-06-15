@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "INTERCONTINENTAL BANK PLC", 
+        "url": "intercontinentalbankplc.com"
+    }, 
+    "brand": "Debit Business", 
+    "country": {
+        "alpha2": "NG", 
+        "currency": "NGN", 
+        "emoji": "\ud83c\uddf3\ud83c\uddec", 
+        "latitude": 10, 
+        "longitude": 8, 
+        "name": "Nigeria", 
+        "numeric": "566"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

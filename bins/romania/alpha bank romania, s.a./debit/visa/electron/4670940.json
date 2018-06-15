@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "ALPHA BANK ROMANIA, S.A."
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "RO", 
+        "currency": "RON", 
+        "emoji": "\ud83c\uddf7\ud83c\uddf4", 
+        "latitude": 46, 
+        "longitude": 25, 
+        "name": "Romania", 
+        "numeric": "642"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

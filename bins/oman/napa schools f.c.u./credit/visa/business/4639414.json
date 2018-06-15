@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "NAPA SCHOOLS F.C.U.", 
+        "phone": "(707) 253-3470"
+    }, 
+    "brand": "Business", 
+    "country": {
+        "alpha2": "OM", 
+        "currency": "OMR", 
+        "emoji": "\ud83c\uddf4\ud83c\uddf2", 
+        "latitude": 21, 
+        "longitude": 57, 
+        "name": "Oman", 
+        "numeric": "512"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

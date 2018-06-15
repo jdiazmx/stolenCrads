@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "(852) 8206 8301 /2277 2277", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "HK", 
+        "currency": "HKD", 
+        "emoji": "\ud83c\udded\ud83c\uddf0", 
+        "latitude": 22.25, 
+        "longitude": 114.1667, 
+        "name": "Hong Kong", 
+        "numeric": "344"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

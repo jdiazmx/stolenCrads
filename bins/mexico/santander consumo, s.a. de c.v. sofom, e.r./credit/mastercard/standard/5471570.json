@@ -1,0 +1,18 @@
+{
+    "bank": {
+        "name": "SANTANDER CONSUMO, S.A. DE C.V. SOFOM, E.R."
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "MX", 
+        "currency": "MXN", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfd", 
+        "latitude": 23, 
+        "longitude": -102, 
+        "name": "Mexico", 
+        "numeric": "484"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

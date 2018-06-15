@@ -1,0 +1,18 @@
+{
+    "bank": {
+        "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL S.A.)"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

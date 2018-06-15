@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "HONGKONG AND SHANGHAI BANKING CORP., LTD.", 
+        "phone": "+94 11 4 4722 00", 
+        "url": "www.hsbc.lk"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "LK", 
+        "currency": "LKR", 
+        "emoji": "\ud83c\uddf1\ud83c\uddf0", 
+        "latitude": 7, 
+        "longitude": 81, 
+        "name": "Sri Lanka", 
+        "numeric": "144"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

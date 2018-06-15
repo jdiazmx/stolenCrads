@@ -1,0 +1,18 @@
+{
+    "bank": {
+        "name": "CENTURION"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "BA", 
+        "currency": "BAM", 
+        "emoji": "\ud83c\udde7\ud83c\udde6", 
+        "latitude": 44, 
+        "longitude": 18, 
+        "name": "Bosnia and Herzegovina", 
+        "numeric": "070"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "HSBC BANK PLC", 
+        "phone": "+44 1226 261 010", 
+        "url": "www.hsbc.co.uk"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "GB", 
+        "currency": "GBP", 
+        "emoji": "\ud83c\uddec\ud83c\udde7", 
+        "latitude": 54, 
+        "longitude": -2, 
+        "name": "United Kingdom of Great Britain and Northern Ireland", 
+        "numeric": "826"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

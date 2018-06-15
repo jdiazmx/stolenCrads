@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO GENERAL, S.A.", 
+        "phone": "507 2066800", 
+        "url": "www.banco-general.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PA", 
+        "currency": "PAB", 
+        "emoji": "\ud83c\uddf5\ud83c\udde6", 
+        "latitude": 9, 
+        "longitude": -80, 
+        "name": "Panama", 
+        "numeric": "591"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

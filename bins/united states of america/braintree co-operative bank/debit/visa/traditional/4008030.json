@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BRAINTREE CO-OPERATIVE BANK", 
+        "phone": "(781) 843-1370 OR (781) 817-3317 OR (781) 817-3317", 
+        "url": "www.braintreecooperative.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

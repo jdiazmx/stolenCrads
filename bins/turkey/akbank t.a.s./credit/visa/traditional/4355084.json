@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "AKBANK T.A.S.", 
+        "phone": "4442525", 
+        "url": "www.akbank.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "TR", 
+        "currency": "TRY", 
+        "emoji": "\ud83c\uddf9\ud83c\uddf7", 
+        "latitude": 39, 
+        "longitude": 35, 
+        "name": "Turkey", 
+        "numeric": "792"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

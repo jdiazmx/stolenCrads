@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "TODOTICKET 2004, C.A."
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "VE", 
+        "currency": "VEF", 
+        "emoji": "\ud83c\uddfb\ud83c\uddea", 
+        "latitude": 8, 
+        "longitude": -66, 
+        "name": "Venezuela (Bolivarian Republic of)", 
+        "numeric": "862"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

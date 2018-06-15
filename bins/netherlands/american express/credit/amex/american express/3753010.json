@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "+31 (0) 70-416 16 16", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "NL", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf3\ud83c\uddf1", 
+        "latitude": 52.5, 
+        "longitude": 5.75, 
+        "name": "Netherlands", 
+        "numeric": "528"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

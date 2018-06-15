@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANCO COOPERATIVO DE PUERTO RICO", 
+        "phone": "(787) 641-2300", 
+        "url": "www.bancoop.com"
+    }, 
+    "brand": "Credit", 
+    "country": {
+        "alpha2": "PR", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf7", 
+        "latitude": 18.25, 
+        "longitude": -66.5, 
+        "name": "Puerto Rico", 
+        "numeric": "630"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

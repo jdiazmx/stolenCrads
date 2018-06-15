@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BRAGG MUTUAL F.C.U.", 
+        "phone": "(910) 222-1500 (910) 488-3515", 
+        "url": "www.braggmutualfcu.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

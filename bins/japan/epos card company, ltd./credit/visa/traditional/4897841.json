@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "EPOS CARD COMPANY, LTD."
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "JP", 
+        "currency": "JPY", 
+        "emoji": "\ud83c\uddef\ud83c\uddf5", 
+        "latitude": 36, 
+        "longitude": 138, 
+        "name": "Japan", 
+        "numeric": "392"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

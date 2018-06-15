@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "MEADOWS C.U.", 
+        "phone": "(847) 342-9300", 
+        "url": "www.meadowscu.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

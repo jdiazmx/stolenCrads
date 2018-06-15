@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "STANDARD BANK OF SOUTH AFRICA, LTD.", 
+        "phone": "0860 123 000", 
+        "url": "www.standardbank.co.za"
+    }, 
+    "brand": "Debit Gold", 
+    "country": {
+        "alpha2": "ZA", 
+        "currency": "ZAR", 
+        "emoji": "\ud83c\uddff\ud83c\udde6", 
+        "latitude": -29, 
+        "longitude": 24, 
+        "name": "South Africa", 
+        "numeric": "710"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

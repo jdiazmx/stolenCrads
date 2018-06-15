@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CREDIT AGRICOLE EGYPT S.A.E.", 
+        "phone": "095-2381002", 
+        "url": "www.ca-egypt.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "EG", 
+        "currency": "EGP", 
+        "emoji": "\ud83c\uddea\ud83c\uddec", 
+        "latitude": 27, 
+        "longitude": 30, 
+        "name": "Egypt", 
+        "numeric": "818"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

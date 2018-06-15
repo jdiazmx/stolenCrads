@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANCO ITAU, S.A.", 
+        "phone": "0800 728 0728", 
+        "url": "www.itau.com.br"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

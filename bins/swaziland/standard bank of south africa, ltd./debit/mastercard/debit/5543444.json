@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "STANDARD BANK OF SOUTH AFRICA, LTD.", 
+        "phone": "27 11 636 9111"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "SZ", 
+        "currency": "SZL", 
+        "emoji": "\ud83c\uddf8\ud83c\uddff", 
+        "latitude": -26.5, 
+        "longitude": 31.5, 
+        "name": "Swaziland", 
+        "numeric": "748"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

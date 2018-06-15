@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "VIA CARD (THAILAND) CO., LTD.", 
+        "phone": "971 4 292 7000", 
+        "url": "www.viacard.com"
+    }, 
+    "brand": "Unembossed Prepaid Student", 
+    "country": {
+        "alpha2": "TH", 
+        "currency": "THB", 
+        "emoji": "\ud83c\uddf9\ud83c\udded", 
+        "latitude": 15, 
+        "longitude": 100, 
+        "name": "Thailand", 
+        "numeric": "764"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

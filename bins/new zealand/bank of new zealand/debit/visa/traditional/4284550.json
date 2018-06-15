@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF NEW ZEALAND", 
+        "phone": "0800 181 818 OR 0800 999 269 OR 64 4 494 7153", 
+        "url": "www.bnz.co.nz"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "NZ", 
+        "currency": "NZD", 
+        "emoji": "\ud83c\uddf3\ud83c\uddff", 
+        "latitude": -41, 
+        "longitude": 174, 
+        "name": "New Zealand", 
+        "numeric": "554"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

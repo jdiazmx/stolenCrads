@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "SOUTHEAST BANK, LTD.", 
+        "phone": "(88-02)9571115", 
+        "url": "www.southeastbank.com.bd"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "BD", 
+        "currency": "BDT", 
+        "emoji": "\ud83c\udde7\ud83c\udde9", 
+        "latitude": 24, 
+        "longitude": 90, 
+        "name": "Bangladesh", 
+        "numeric": "050"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

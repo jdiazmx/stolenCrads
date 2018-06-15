@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "INDIAN OVERSEAS BANK"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

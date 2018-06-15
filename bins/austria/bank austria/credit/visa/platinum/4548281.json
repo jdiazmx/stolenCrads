@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "BANK AUSTRIA", 
+        "phone": "43171111380"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "AT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\udde6\ud83c\uddf9", 
+        "latitude": 47.3333, 
+        "longitude": 13.3333, 
+        "name": "Austria", 
+        "numeric": "040"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

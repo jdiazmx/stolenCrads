@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "NATIONAL BANK OF BAHRAIN", 
+        "phone": "(+973) 1722-8800", 
+        "url": "www.nbbonline.com"
+    }, 
+    "brand": "Debit Unembossed (non-U.S.)", 
+    "country": {
+        "alpha2": "BH", 
+        "currency": "BHD", 
+        "emoji": "\ud83c\udde7\ud83c\udded", 
+        "latitude": 26, 
+        "longitude": 50.55, 
+        "name": "Bahrain", 
+        "numeric": "048"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

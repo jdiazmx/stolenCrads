@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "NATIONAL COMMERCIAL BANK", 
+        "phone": "966 2646 4060"
+    }, 
+    "brand": "Platinum Prepaid Travel", 
+    "country": {
+        "alpha2": "SA", 
+        "currency": "SAR", 
+        "emoji": "\ud83c\uddf8\ud83c\udde6", 
+        "latitude": 25, 
+        "longitude": 45, 
+        "name": "Saudi Arabia", 
+        "numeric": "682"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

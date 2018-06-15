@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "NORDEA BANK AB", 
+        "phone": "(+46) 8 614-7000", 
+        "url": "www.nordea.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "SE", 
+        "currency": "SEK", 
+        "emoji": "\ud83c\uddf8\ud83c\uddea", 
+        "latitude": 62, 
+        "longitude": 15, 
+        "name": "Sweden", 
+        "numeric": "752"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

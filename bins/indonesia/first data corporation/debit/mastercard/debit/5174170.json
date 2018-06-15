@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "FIRST DATA CORPORATION", 
+        "phone": "+1 888-477-3611", 
+        "url": "www.firstdata.com"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "ID", 
+        "currency": "IDR", 
+        "emoji": "\ud83c\uddee\ud83c\udde9", 
+        "latitude": -5, 
+        "longitude": 120, 
+        "name": "Indonesia", 
+        "numeric": "360"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

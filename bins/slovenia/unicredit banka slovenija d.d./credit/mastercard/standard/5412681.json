@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "UNICREDIT BANKA SLOVENIJA D.D.", 
+        "phone": "386 1587 66 00", 
+        "url": "www.unicreditbank.si"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "SI", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf8\ud83c\uddee", 
+        "latitude": 46, 
+        "longitude": 15, 
+        "name": "Slovenia", 
+        "numeric": "705"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

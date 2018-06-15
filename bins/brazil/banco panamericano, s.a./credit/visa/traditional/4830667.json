@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO PANAMERICANO, S.A.", 
+        "phone": "55 11 3264-5432", 
+        "url": "www.panamericano.com.br"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

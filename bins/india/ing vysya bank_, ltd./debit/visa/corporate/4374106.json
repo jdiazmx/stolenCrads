@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ING VYSYA BANK_, LTD.", 
+        "phone": "1-800-420-9900", 
+        "url": "www.ingvysyabank.com"
+    }, 
+    "brand": "Corporate", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

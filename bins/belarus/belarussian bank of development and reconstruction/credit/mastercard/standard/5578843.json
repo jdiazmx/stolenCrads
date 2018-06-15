@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BELARUSSIAN BANK OF DEVELOPMENT AND RECONSTRUCTION", 
+        "phone": "017) 223-93-96, 226-79-45", 
+        "url": "www.belinvestbank.by"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "BY", 
+        "currency": "BYR", 
+        "emoji": "\ud83c\udde7\ud83c\uddfe", 
+        "latitude": 53, 
+        "longitude": 28, 
+        "name": "Belarus", 
+        "numeric": "112"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

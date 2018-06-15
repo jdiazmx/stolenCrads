@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "0800 800 855", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "NZ", 
+        "currency": "NZD", 
+        "emoji": "\ud83c\uddf3\ud83c\uddff", 
+        "latitude": -41, 
+        "longitude": 174, 
+        "name": "New Zealand", 
+        "numeric": "554"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "UNITED BANK OF INDIA", 
+        "phone": "06782 262253", 
+        "url": "www.unitedbankofindia.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

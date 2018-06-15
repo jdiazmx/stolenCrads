@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "HANSABANK"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "EE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddea\ud83c\uddea", 
+        "latitude": 59, 
+        "longitude": 26, 
+        "name": "Estonia", 
+        "numeric": "233"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

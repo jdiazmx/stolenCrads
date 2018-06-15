@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CHINATRUST COMMERCIAL BANK", 
+        "phone": "02-12345678 OR 0912345678", 
+        "url": "www.chinatrust.com.tw"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "TW", 
+        "currency": "TWD", 
+        "emoji": "\ud83c\uddf9\ud83c\uddfc", 
+        "latitude": 23.5, 
+        "longitude": 121, 
+        "name": "Taiwan, Province of China[a]", 
+        "numeric": "158"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

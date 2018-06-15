@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "EASTERN CARIBBEAN AMALGAMATED BANK, LTD."
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AG", 
+        "currency": "XCD", 
+        "emoji": "\ud83c\udde6\ud83c\uddec", 
+        "latitude": 17.05, 
+        "longitude": -61.8, 
+        "name": "Antigua and Barbuda", 
+        "numeric": "028"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

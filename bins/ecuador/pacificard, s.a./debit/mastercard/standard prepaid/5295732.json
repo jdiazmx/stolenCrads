@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "PACIFICARD, S.A.", 
+        "phone": "(5934) 251-1500"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "EC", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddea\ud83c\udde8", 
+        "latitude": -2, 
+        "longitude": -77.5, 
+        "name": "Ecuador", 
+        "numeric": "218"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

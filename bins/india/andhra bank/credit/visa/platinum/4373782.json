@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ANDHRA BANK", 
+        "phone": "040- 23252000", 
+        "url": "www.andhrabank.in"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

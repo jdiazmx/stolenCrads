@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "VISECA CARD SERVICES, S.A.", 
+        "phone": "058 958 82 00", 
+        "url": "www.viseca.ch"
+    }, 
+    "brand": "Prepaid", 
+    "country": {
+        "alpha2": "CH", 
+        "currency": "CHF", 
+        "emoji": "\ud83c\udde8\ud83c\udded", 
+        "latitude": 47, 
+        "longitude": 8, 
+        "name": "Switzerland", 
+        "numeric": "756"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

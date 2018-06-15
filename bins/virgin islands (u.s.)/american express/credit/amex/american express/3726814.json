@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "1800 327 1267", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "VI", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfb\ud83c\uddee", 
+        "latitude": 18.3333, 
+        "longitude": -64.8333, 
+        "name": "Virgin Islands (U.S.)", 
+        "numeric": "850"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

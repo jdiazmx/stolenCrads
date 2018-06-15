@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "CANADIAN IMPERIAL BANK OF COMMERCE", 
+        "phone": "1-800-465-2422 OR 1-902-420-2422", 
+        "url": "www.cibc.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "CA", 
+        "currency": "CAD", 
+        "emoji": "\ud83c\udde8\ud83c\udde6", 
+        "latitude": 60, 
+        "longitude": -95, 
+        "name": "Canada", 
+        "numeric": "124"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

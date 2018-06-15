@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "FBC BANK, LTD.", 
+        "phone": "263 (4) 797759", 
+        "url": "www.fbc.co.zw"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "ZW", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddff\ud83c\uddfc", 
+        "latitude": -20, 
+        "longitude": 30, 
+        "name": "Zimbabwe", 
+        "numeric": "716"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

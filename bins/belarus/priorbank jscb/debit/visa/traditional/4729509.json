@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "PRIORBANK JSCB", 
+        "phone": "(375)17-289-9292", 
+        "url": "www.priorbank.by"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "BY", 
+        "currency": "BYR", 
+        "emoji": "\ud83c\udde7\ud83c\uddfe", 
+        "latitude": 53, 
+        "longitude": 28, 
+        "name": "Belarus", 
+        "numeric": "112"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

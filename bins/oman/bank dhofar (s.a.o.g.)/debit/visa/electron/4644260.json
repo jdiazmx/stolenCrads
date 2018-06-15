@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK DHOFAR (S.A.O.G.)", 
+        "phone": "2479-1111 OR 24 790 466", 
+        "url": "www.bankdhofar.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "OM", 
+        "currency": "OMR", 
+        "emoji": "\ud83c\uddf4\ud83c\uddf2", 
+        "latitude": 21, 
+        "longitude": 57, 
+        "name": "Oman", 
+        "numeric": "512"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

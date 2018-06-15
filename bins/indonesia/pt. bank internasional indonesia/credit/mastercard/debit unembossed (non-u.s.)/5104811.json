@@ -1,0 +1,18 @@
+{
+    "bank": {
+        "name": "PT. BANK INTERNASIONAL INDONESIA"
+    }, 
+    "brand": "Debit Unembossed (non-U.S.)", 
+    "country": {
+        "alpha2": "ID", 
+        "currency": "IDR", 
+        "emoji": "\ud83c\uddee\ud83c\udde9", 
+        "latitude": -5, 
+        "longitude": 120, 
+        "name": "Indonesia", 
+        "numeric": "360"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

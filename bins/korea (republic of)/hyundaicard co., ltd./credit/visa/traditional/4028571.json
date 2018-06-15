@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "HYUNDAICARD CO., LTD.", 
+        "phone": "82 2 2167 7294", 
+        "url": "www.hyundaicard.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "KR", 
+        "currency": "KRW", 
+        "emoji": "\ud83c\uddf0\ud83c\uddf7", 
+        "latitude": 37, 
+        "longitude": 127.5, 
+        "name": "Korea (Republic of)", 
+        "numeric": "410"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

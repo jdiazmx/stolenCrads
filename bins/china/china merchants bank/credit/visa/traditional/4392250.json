@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "CHINA MERCHANTS BANK", 
+        "phone": "4008205555"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CN", 
+        "currency": "CNY", 
+        "emoji": "\ud83c\udde8\ud83c\uddf3", 
+        "latitude": 35, 
+        "longitude": 105, 
+        "name": "China", 
+        "numeric": "156"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

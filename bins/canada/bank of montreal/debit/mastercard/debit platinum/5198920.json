@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK OF MONTREAL", 
+        "phone": "1-877 CALL BMO (225-5266) OR 1-877-225-5266", 
+        "url": "www.bmo.com"
+    }, 
+    "brand": "Debit Platinum", 
+    "country": {
+        "alpha2": "CA", 
+        "currency": "CAD", 
+        "emoji": "\ud83c\udde8\ud83c\udde6", 
+        "latitude": 60, 
+        "longitude": -95, 
+        "name": "Canada", 
+        "numeric": "124"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

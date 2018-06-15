@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "ROYAL BANK OF SCOTLAND, N.V.", 
+        "url": "www.rbs.in"
+    }, 
+    "brand": "Platinium", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

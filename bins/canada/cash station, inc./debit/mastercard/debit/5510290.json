@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "CASH STATION, INC.", 
+        "phone": "(707) 837-2818"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "CA", 
+        "currency": "CAD", 
+        "emoji": "\ud83c\udde8\ud83c\udde6", 
+        "latitude": 60, 
+        "longitude": -95, 
+        "name": "Canada", 
+        "numeric": "124"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

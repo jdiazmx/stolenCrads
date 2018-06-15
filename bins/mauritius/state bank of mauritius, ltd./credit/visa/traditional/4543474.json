@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "STATE BANK OF MAURITIUS, LTD.", 
+        "phone": "404 4900", 
+        "url": "www.sbimauritius.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "MU", 
+        "currency": "MUR", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfa", 
+        "latitude": -20.2833, 
+        "longitude": 57.55, 
+        "name": "Mauritius", 
+        "numeric": "480"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

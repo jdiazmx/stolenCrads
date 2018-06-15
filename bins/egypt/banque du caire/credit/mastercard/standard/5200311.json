@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANQUE DU CAIRE", 
+        "phone": "202 2 264 8410", 
+        "url": "www.bdc.com.eg"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "EG", 
+        "currency": "EGP", 
+        "emoji": "\ud83c\uddea\ud83c\uddec", 
+        "latitude": 27, 
+        "longitude": 30, 
+        "name": "Egypt", 
+        "numeric": "818"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

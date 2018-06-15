@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "NAB - NATIONAL AUSTRALIA BANK", 
+        "phone": "1800 033-103", 
+        "url": "www.nab.com.au"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "AU", 
+        "currency": "AUD", 
+        "emoji": "\ud83c\udde6\ud83c\uddfa", 
+        "latitude": -27, 
+        "longitude": 133, 
+        "name": "Australia", 
+        "numeric": "036"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

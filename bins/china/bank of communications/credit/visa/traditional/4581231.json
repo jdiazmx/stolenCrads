@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF COMMUNICATIONS", 
+        "phone": "95559", 
+        "url": "www.bankcomm.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CN", 
+        "currency": "CNY", 
+        "emoji": "\ud83c\udde8\ud83c\uddf3", 
+        "latitude": 35, 
+        "longitude": 105, 
+        "name": "China", 
+        "numeric": "156"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

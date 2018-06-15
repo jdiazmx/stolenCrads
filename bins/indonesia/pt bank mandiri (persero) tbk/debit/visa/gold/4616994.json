@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "PT BANK MANDIRI (PERSERO) TBK", 
+        "phone": "2152997777", 
+        "url": "www.bankmandiri.co.id"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "ID", 
+        "currency": "IDR", 
+        "emoji": "\ud83c\uddee\ud83c\udde9", 
+        "latitude": -5, 
+        "longitude": 120, 
+        "name": "Indonesia", 
+        "numeric": "360"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "BANK OF IRELAND", 
+        "phone": "0818365365"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddea", 
+        "latitude": 53, 
+        "longitude": -8, 
+        "name": "Ireland", 
+        "numeric": "372"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

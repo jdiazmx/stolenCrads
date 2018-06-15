@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK PRZEMYSLOWO-HANDLOWY PKB, S.A.", 
+        "phone": "801 889 889 OR 58 300 75 00", 
+        "url": "www.bph.pl"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

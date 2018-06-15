@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "MCB BANK, LTD.", 
+        "phone": "111-000-622", 
+        "url": "www.mcb.com.pk"
+    }, 
+    "brand": "maestro", 
+    "country": {
+        "alpha2": "PK", 
+        "currency": "PKR", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf0", 
+        "latitude": 30, 
+        "longitude": 70, 
+        "name": "Pakistan", 
+        "numeric": "586"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

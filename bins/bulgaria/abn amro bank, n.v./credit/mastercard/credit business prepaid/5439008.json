@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "ABN AMRO BANK, N.V."
+    }, 
+    "brand": "Credit Business Prepaid", 
+    "country": {
+        "alpha2": "BG", 
+        "currency": "BGN", 
+        "emoji": "\ud83c\udde7\ud83c\uddec", 
+        "latitude": 43, 
+        "longitude": 25, 
+        "name": "Bulgaria", 
+        "numeric": "100"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

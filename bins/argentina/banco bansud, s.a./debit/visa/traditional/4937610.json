@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO BANSUD, S.A.", 
+        "phone": "8105552355", 
+        "url": "www.macro.com.ar"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AR", 
+        "currency": "ARS", 
+        "emoji": "\ud83c\udde6\ud83c\uddf7", 
+        "latitude": -34, 
+        "longitude": -64, 
+        "name": "Argentina", 
+        "numeric": "032"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

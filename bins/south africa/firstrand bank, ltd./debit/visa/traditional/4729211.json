@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "FIRSTRAND BANK, LTD.", 
+        "phone": "27 11 282 1808", 
+        "url": "www.firstrand.co.za"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "ZA", 
+        "currency": "ZAR", 
+        "emoji": "\ud83c\uddff\ud83c\udde6", 
+        "latitude": -29, 
+        "longitude": 24, 
+        "name": "South Africa", 
+        "numeric": "710"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

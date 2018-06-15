@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "SAIGON THUONG TIN COMMERCIAL JSB", 
+        "phone": "(+84) 83 9320 420", 
+        "url": "www.sacombank.com.vn"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "VN", 
+        "currency": "VND", 
+        "emoji": "\ud83c\uddfb\ud83c\uddf3", 
+        "latitude": 16, 
+        "longitude": 106, 
+        "name": "Viet Nam", 
+        "numeric": "704"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

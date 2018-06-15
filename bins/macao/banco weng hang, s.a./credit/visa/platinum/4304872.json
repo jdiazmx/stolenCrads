@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO WENG HANG, S.A.", 
+        "phone": "2815 1123", 
+        "url": "www.whbhk.com"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "MO", 
+        "currency": "MOP", 
+        "emoji": "\ud83c\uddf2\ud83c\uddf4", 
+        "latitude": 22.1667, 
+        "longitude": 113.55, 
+        "name": "Macao", 
+        "numeric": "446"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

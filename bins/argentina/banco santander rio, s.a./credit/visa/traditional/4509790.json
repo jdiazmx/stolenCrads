@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO SANTANDER RIO, S.A.", 
+        "phone": "54 OR 11 4341 1000", 
+        "url": "www.santanderrio.com.ar"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AR", 
+        "currency": "ARS", 
+        "emoji": "\ud83c\udde6\ud83c\uddf7", 
+        "latitude": -34, 
+        "longitude": -64, 
+        "name": "Argentina", 
+        "numeric": "032"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

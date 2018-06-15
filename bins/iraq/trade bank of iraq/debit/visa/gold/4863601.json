@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "TRADE BANK OF IRAQ"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "IQ", 
+        "currency": "IQD", 
+        "emoji": "\ud83c\uddee\ud83c\uddf6", 
+        "latitude": 33, 
+        "longitude": 44, 
+        "name": "Iraq", 
+        "numeric": "368"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

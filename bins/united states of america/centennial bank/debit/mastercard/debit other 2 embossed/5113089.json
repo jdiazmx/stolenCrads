@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "CENTENNIAL BANK", 
+        "phone": "801-475-7000 OR 801-475-4280", 
+        "url": "www.centennialbank.com"
+    }, 
+    "brand": "Debit Other 2 Embossed", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

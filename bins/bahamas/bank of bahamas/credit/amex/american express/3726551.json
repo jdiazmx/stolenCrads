@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK OF BAHAMAS", 
+        "phone": "242-397-3030", 
+        "url": "www.bankbahamasonline.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "BS", 
+        "currency": "BSD", 
+        "emoji": "\ud83c\udde7\ud83c\uddf8", 
+        "latitude": 24.25, 
+        "longitude": -76, 
+        "name": "Bahamas", 
+        "numeric": "044"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

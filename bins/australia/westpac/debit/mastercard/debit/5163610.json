@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "WESTPAC", 
+        "phone": "1300651089"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "AU", 
+        "currency": "AUD", 
+        "emoji": "\ud83c\udde6\ud83c\uddfa", 
+        "latitude": -27, 
+        "longitude": 133, 
+        "name": "Australia", 
+        "numeric": "036"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

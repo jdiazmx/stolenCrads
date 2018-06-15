@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "COMPANIA FINANCIERA ARGENTINA, S.A.", 
+        "phone": "(0281) 6199999", 
+        "url": "www.efectivosi.com.ar"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AR", 
+        "currency": "ARS", 
+        "emoji": "\ud83c\udde6\ud83c\uddf7", 
+        "latitude": -34, 
+        "longitude": -64, 
+        "name": "Argentina", 
+        "numeric": "032"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

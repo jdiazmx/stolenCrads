@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "WESTPAC BANKING CORPORATION", 
+        "phone": "1300 134 291", 
+        "url": "www.westpac.com.au"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "EE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddea\ud83c\uddea", 
+        "latitude": 59, 
+        "longitude": 26, 
+        "name": "Estonia", 
+        "numeric": "233"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

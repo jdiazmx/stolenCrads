@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "BANQUE INVIK, S.A."
+    }, 
+    "brand": "Prepaid", 
+    "country": {
+        "alpha2": "IE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddea", 
+        "latitude": 53, 
+        "longitude": -8, 
+        "name": "Ireland", 
+        "numeric": "372"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

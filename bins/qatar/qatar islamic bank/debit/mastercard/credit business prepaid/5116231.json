@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "QATAR ISLAMIC BANK", 
+        "phone": "44409409", 
+        "url": "www.qib.com.qa"
+    }, 
+    "brand": "Credit Business Prepaid", 
+    "country": {
+        "alpha2": "QA", 
+        "currency": "QAR", 
+        "emoji": "\ud83c\uddf6\ud83c\udde6", 
+        "latitude": 25.5, 
+        "longitude": 51.25, 
+        "name": "Qatar", 
+        "numeric": "634"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

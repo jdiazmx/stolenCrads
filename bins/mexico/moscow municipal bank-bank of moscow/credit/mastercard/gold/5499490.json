@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "MOSCOW MUNICIPAL BANK-BANK OF MOSCOW", 
+        "phone": "(+7 495) 925-8000"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "MX", 
+        "currency": "MXN", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfd", 
+        "latitude": 23, 
+        "longitude": -102, 
+        "name": "Mexico", 
+        "numeric": "484"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

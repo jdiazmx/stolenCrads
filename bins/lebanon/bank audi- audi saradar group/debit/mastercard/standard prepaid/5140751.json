@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "BANK AUDI- AUDI SARADAR GROUP", 
+        "phone": "(01) 332130 OR 332129 OR 215492-3 OR 204825-6-7", 
+        "url": "www.banqueaudi.com"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "LB", 
+        "currency": "LBP", 
+        "emoji": "\ud83c\uddf1\ud83c\udde7", 
+        "latitude": 33.8333, 
+        "longitude": 35.8333, 
+        "name": "Lebanon", 
+        "numeric": "422"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

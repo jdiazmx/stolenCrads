@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BEEHIVE C.U.", 
+        "phone": "208-656-1000 OR 800-972-4483", 
+        "url": "www.bhive.org"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "credit"
+}

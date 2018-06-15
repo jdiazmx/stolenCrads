@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ARAB BANK PLC", 
+        "phone": "+970 2 295 3333", 
+        "url": "www.arabbank.ps"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "PS", 
+        "currency": "JOD", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf8", 
+        "latitude": 32, 
+        "longitude": 35.25, 
+        "name": "Palestine, State of", 
+        "numeric": "275"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

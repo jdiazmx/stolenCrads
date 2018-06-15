@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "ARAB NATIONAL BANK"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "SA", 
+        "currency": "SAR", 
+        "emoji": "\ud83c\uddf8\ud83c\udde6", 
+        "latitude": 25, 
+        "longitude": 45, 
+        "name": "Saudi Arabia", 
+        "numeric": "682"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

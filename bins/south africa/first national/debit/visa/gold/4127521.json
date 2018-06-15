@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "FIRST NATIONAL", 
+        "phone": "0860112244"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "ZA", 
+        "currency": "ZAR", 
+        "emoji": "\ud83c\uddff\ud83c\udde6", 
+        "latitude": -29, 
+        "longitude": 24, 
+        "name": "South Africa", 
+        "numeric": "710"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

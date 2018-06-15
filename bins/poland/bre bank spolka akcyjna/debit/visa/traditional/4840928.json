@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "BRE BANK SPOLKA AKCYJNA"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PL", 
+        "currency": "PLN", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf1", 
+        "latitude": 52, 
+        "longitude": 20, 
+        "name": "Poland", 
+        "numeric": "616"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

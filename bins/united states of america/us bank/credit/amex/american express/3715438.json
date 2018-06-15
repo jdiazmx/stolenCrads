@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "US BANK", 
+        "phone": "800-216-3204", 
+        "url": "www.usbank.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

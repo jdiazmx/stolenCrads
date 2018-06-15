@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "GROUPEMENT CARTE BLEUE", 
+        "phone": "00 33 (0)1 64 27 72 21", 
+        "url": "www.groupecb.fr"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "FR", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddeb\ud83c\uddf7", 
+        "latitude": 46, 
+        "longitude": 2, 
+        "name": "France", 
+        "numeric": "250"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

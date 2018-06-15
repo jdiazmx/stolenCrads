@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANCO NACIONAL DE COSTA RICA", 
+        "phone": "(506)2211-2000", 
+        "url": "www.bnonline.fi.cr"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "CR", 
+        "currency": "CRC", 
+        "emoji": "\ud83c\udde8\ud83c\uddf7", 
+        "latitude": 10, 
+        "longitude": -84, 
+        "name": "Costa Rica", 
+        "numeric": "188"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "MADURO AND CURIEL'S BANK, N.V.", 
+        "phone": "(599-9) 466-1100", 
+        "url": "www.mcb-bank.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CW", 
+        "currency": "ANG", 
+        "emoji": "\ud83c\udde8\ud83c\uddfc", 
+        "latitude": 12.1833, 
+        "longitude": -68.9333, 
+        "name": "Cura\u00e7ao", 
+        "numeric": "531"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

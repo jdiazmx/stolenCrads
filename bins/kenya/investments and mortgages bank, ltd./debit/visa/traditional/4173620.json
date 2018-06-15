@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "INVESTMENTS AND MORTGAGES BANK, LTD.", 
+        "phone": "+99412 441 33 25", 
+        "url": "www.imbank.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "KE", 
+        "currency": "KES", 
+        "emoji": "\ud83c\uddf0\ud83c\uddea", 
+        "latitude": 1, 
+        "longitude": 38, 
+        "name": "Kenya", 
+        "numeric": "404"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

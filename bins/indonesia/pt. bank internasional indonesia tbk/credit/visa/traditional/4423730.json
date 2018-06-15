@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "PT. BANK INTERNASIONAL INDONESIA TBK"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "ID", 
+        "currency": "IDR", 
+        "emoji": "\ud83c\uddee\ud83c\udde9", 
+        "latitude": -5, 
+        "longitude": 120, 
+        "name": "Indonesia", 
+        "numeric": "360"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

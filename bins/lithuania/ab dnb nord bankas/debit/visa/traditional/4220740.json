@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "AB DNB NORD BANKAS", 
+        "phone": "(370 5) 239 34 44", 
+        "url": "www.dnbnord.lt"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "LT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf1\ud83c\uddf9", 
+        "latitude": 56, 
+        "longitude": 24, 
+        "name": "Lithuania", 
+        "numeric": "440"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

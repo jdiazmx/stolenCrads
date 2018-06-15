@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "WESTERN STATES BANKCARD ASSOCIATION", 
+        "phone": "1 770-879-2404"
+    }, 
+    "brand": "World Debit Embossed", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

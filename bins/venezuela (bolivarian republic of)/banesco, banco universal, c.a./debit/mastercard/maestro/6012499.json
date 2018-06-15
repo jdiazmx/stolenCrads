@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANESCO, BANCO UNIVERSAL, C.A.", 
+        "phone": "58212-5017111", 
+        "url": "www.banesco.com"
+    }, 
+    "brand": "maestro", 
+    "country": {
+        "alpha2": "VE", 
+        "currency": "VEF", 
+        "emoji": "\ud83c\uddfb\ud83c\uddea", 
+        "latitude": 8, 
+        "longitude": -66, 
+        "name": "Venezuela (Bolivarian Republic of)", 
+        "numeric": "862"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.", 
+        "phone": "971 - 4 - 3589381", 
+        "url": "www.cibeg.com"
+    }, 
+    "brand": "Titanium", 
+    "country": {
+        "alpha2": "EG", 
+        "currency": "EGP", 
+        "emoji": "\ud83c\uddea\ud83c\uddec", 
+        "latitude": 27, 
+        "longitude": 30, 
+        "name": "Egypt", 
+        "numeric": "818"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

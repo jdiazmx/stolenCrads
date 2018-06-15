@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ABSA GROUP, LTD.", 
+        "phone": "+27 (0) 11 350 4000", 
+        "url": "www.absa.co.za"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "ZA", 
+        "currency": "ZAR", 
+        "emoji": "\ud83c\uddff\ud83c\udde6", 
+        "latitude": -29, 
+        "longitude": 24, 
+        "name": "South Africa", 
+        "numeric": "710"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

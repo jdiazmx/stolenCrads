@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO POPULAR DE PUERTO RICO", 
+        "phone": "787-765-9800", 
+        "url": "www.popular.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PR", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf7", 
+        "latitude": 18.25, 
+        "longitude": -66.5, 
+        "name": "Puerto Rico", 
+        "numeric": "630"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

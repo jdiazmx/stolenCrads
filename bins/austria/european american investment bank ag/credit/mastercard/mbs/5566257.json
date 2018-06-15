@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "EUROPEAN AMERICAN INVESTMENT BANK AG", 
+        "phone": "01 51238800", 
+        "url": "www.eurambank.com"
+    }, 
+    "brand": "MBS", 
+    "country": {
+        "alpha2": "AT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\udde6\ud83c\uddf9", 
+        "latitude": 47.3333, 
+        "longitude": 13.3333, 
+        "name": "Austria", 
+        "numeric": "040"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

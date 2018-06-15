@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "FIRST CITIZENS NATIONAL BANK OF UPPER SANDUSKY", 
+        "phone": "(419) 294-2351", 
+        "url": "www.firstcitizensnational.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

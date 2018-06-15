@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "BANCO PROVINCIAL S.A. BANCO UNIVERS.A.L."
+    }, 
+    "brand": "Signature", 
+    "country": {
+        "alpha2": "VE", 
+        "currency": "VEF", 
+        "emoji": "\ud83c\uddfb\ud83c\uddea", 
+        "latitude": 8, 
+        "longitude": -66, 
+        "name": "Venezuela (Bolivarian Republic of)", 
+        "numeric": "862"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

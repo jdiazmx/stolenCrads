@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CESKA SPORITELNA, A.S (CZECH SAVINGS BANK)", 
+        "phone": "800 207 207 OR 420 582 405 901", 
+        "url": "www.csas.cz"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CZ", 
+        "currency": "CZK", 
+        "emoji": "\ud83c\udde8\ud83c\uddff", 
+        "latitude": 49.75, 
+        "longitude": 15.5, 
+        "name": "Czechia", 
+        "numeric": "203"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

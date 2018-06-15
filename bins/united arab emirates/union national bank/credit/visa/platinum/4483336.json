@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "UNION NATIONAL BANK", 
+        "phone": "02-674 1600", 
+        "url": "www.unb.co.ae"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "AE", 
+        "currency": "AED", 
+        "emoji": "\ud83c\udde6\ud83c\uddea", 
+        "latitude": 24, 
+        "longitude": 54, 
+        "name": "United Arab Emirates", 
+        "numeric": "784"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "HERITAGE INTERNATIONAL BANK AND TRUST, LTD.", 
+        "phone": "805-369-5200 OR 800-773-5640", 
+        "url": "www.heritageoaksbank.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

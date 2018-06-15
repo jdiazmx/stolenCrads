@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BNP PARIBAS", 
+        "phone": "33 (0)1 42 98 12 34 OU +33 (0)1 40 14 45 46", 
+        "url": "www.bnpparibas.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "MM", 
+        "currency": "MMK", 
+        "emoji": "\ud83c\uddf2\ud83c\uddf2", 
+        "latitude": 22, 
+        "longitude": 98, 
+        "name": "Myanmar", 
+        "numeric": "104"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "Handelsbanken", 
+        "phone": "1265260108"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "DK", 
+        "currency": "DKK", 
+        "emoji": "\ud83c\udde9\ud83c\uddf0", 
+        "latitude": 56, 
+        "longitude": 10, 
+        "name": "Denmark", 
+        "numeric": "208"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

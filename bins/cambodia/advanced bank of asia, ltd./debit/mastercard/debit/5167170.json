@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "ADVANCED BANK OF ASIA, LTD.", 
+        "phone": "(855) 23 225 333", 
+        "url": "www.ababank.net"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "KH", 
+        "currency": "KHR", 
+        "emoji": "\ud83c\uddf0\ud83c\udded", 
+        "latitude": 13, 
+        "longitude": 105, 
+        "name": "Cambodia", 
+        "numeric": "116"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

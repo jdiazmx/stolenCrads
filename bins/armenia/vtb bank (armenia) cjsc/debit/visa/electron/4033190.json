@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "VTB BANK (ARMENIA) CJSC", 
+        "phone": "374 10 56 58", 
+        "url": "www.vtb.am"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "AM", 
+        "currency": "AMD", 
+        "emoji": "\ud83c\udde6\ud83c\uddf2", 
+        "latitude": 40, 
+        "longitude": 45, 
+        "name": "Armenia", 
+        "numeric": "051"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

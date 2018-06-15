@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "CHINA GUANGFA BANK CO., LTD.", 
+        "phone": "86 20 3832 3832", 
+        "url": "www.gdb.com.cn"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "CN", 
+        "currency": "CNY", 
+        "emoji": "\ud83c\udde8\ud83c\uddf3", 
+        "latitude": 35, 
+        "longitude": 105, 
+        "name": "China", 
+        "numeric": "156"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

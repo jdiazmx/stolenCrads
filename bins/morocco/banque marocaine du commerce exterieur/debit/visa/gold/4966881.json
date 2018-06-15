@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR", 
+        "phone": "05 22-20-03-25", 
+        "url": "www.bmcebank.ma"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "MA", 
+        "currency": "MAD", 
+        "emoji": "\ud83c\uddf2\ud83c\udde6", 
+        "latitude": 32, 
+        "longitude": -5, 
+        "name": "Morocco", 
+        "numeric": "504"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

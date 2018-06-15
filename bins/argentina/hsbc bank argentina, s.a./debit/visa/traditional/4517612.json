@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "HSBC BANK ARGENTINA, S.A.", 
+        "phone": "4329-5000", 
+        "url": "www.hsbc.com.ar"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AR", 
+        "currency": "ARS", 
+        "emoji": "\ud83c\udde6\ud83c\uddf7", 
+        "latitude": -34, 
+        "longitude": -64, 
+        "name": "Argentina", 
+        "numeric": "032"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

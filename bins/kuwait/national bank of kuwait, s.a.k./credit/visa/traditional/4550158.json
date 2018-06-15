@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "NATIONAL BANK OF KUWAIT, S.A.K.", 
+        "phone": "(+965) 2242-2011", 
+        "url": "www.nbk.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "KW", 
+        "currency": "KWD", 
+        "emoji": "\ud83c\uddf0\ud83c\uddfc", 
+        "latitude": 29.3375, 
+        "longitude": 47.6581, 
+        "name": "Kuwait", 
+        "numeric": "414"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

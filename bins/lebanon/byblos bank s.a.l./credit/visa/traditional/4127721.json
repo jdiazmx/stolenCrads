@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BYBLOS BANK S.A.L.", 
+        "phone": "961 1 205050", 
+        "url": "www.byblosbank.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "LB", 
+        "currency": "LBP", 
+        "emoji": "\ud83c\uddf1\ud83c\udde7", 
+        "latitude": 33.8333, 
+        "longitude": 35.8333, 
+        "name": "Lebanon", 
+        "numeric": "422"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

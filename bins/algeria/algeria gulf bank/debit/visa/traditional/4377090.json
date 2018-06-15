@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "ALGERIA GULF BANK", 
+        "url": "www.ag-bank.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "DZ", 
+        "currency": "DZD", 
+        "emoji": "\ud83c\udde9\ud83c\uddff", 
+        "latitude": 28, 
+        "longitude": 3, 
+        "name": "Algeria", 
+        "numeric": "012"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK OF AUSTRALIA", 
+        "phone": "61 2 9551 8111 OR 1800 300 288*", 
+        "url": "www.rba.gov.au"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "AU", 
+        "currency": "AUD", 
+        "emoji": "\ud83c\udde6\ud83c\uddfa", 
+        "latitude": -27, 
+        "longitude": 133, 
+        "name": "Australia", 
+        "numeric": "036"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

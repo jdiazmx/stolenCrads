@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "BANKCARD SERVICE JAPAN CO., LTD."
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "ZM", 
+        "currency": "ZMW", 
+        "emoji": "\ud83c\uddff\ud83c\uddf2", 
+        "latitude": -15, 
+        "longitude": 30, 
+        "name": "Zambia", 
+        "numeric": "894"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

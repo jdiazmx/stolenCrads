@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "0800 100 5878", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "VE", 
+        "currency": "VEF", 
+        "emoji": "\ud83c\uddfb\ud83c\uddea", 
+        "latitude": 8, 
+        "longitude": -66, 
+        "name": "Venezuela (Bolivarian Republic of)", 
+        "numeric": "862"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

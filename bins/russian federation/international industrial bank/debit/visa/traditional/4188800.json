@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "INTERNATIONAL INDUSTRIAL BANK", 
+        "url": "www.iib.ru"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "RU", 
+        "currency": "RUB", 
+        "emoji": "\ud83c\uddf7\ud83c\uddfa", 
+        "latitude": 60, 
+        "longitude": 100, 
+        "name": "Russian Federation", 
+        "numeric": "643"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

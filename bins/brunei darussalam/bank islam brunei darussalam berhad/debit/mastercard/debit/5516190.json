@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK ISLAM BRUNEI DARUSSALAM BERHAD", 
+        "phone": "6 73 223 8181 OR 673 2235733", 
+        "url": "www.bibd.com.bn"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "BN", 
+        "currency": "BND", 
+        "emoji": "\ud83c\udde7\ud83c\uddf3", 
+        "latitude": 4.5, 
+        "longitude": 114.6667, 
+        "name": "Brunei Darussalam", 
+        "numeric": "096"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

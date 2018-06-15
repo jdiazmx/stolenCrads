@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "CITIBANK", 
+        "phone": "202 2791 3522", 
+        "url": "www.citibankegypt.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "EG", 
+        "currency": "EGP", 
+        "emoji": "\ud83c\uddea\ud83c\uddec", 
+        "latitude": 27, 
+        "longitude": 30, 
+        "name": "Egypt", 
+        "numeric": "818"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

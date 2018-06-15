@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CATHOLIC SYRIAN BANK, LTD.", 
+        "phone": "0824 2441550", 
+        "url": "www.csb.co.in"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "(09) 6132 0400", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "FI", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddeb\ud83c\uddee", 
+        "latitude": 64, 
+        "longitude": 26, 
+        "name": "Finland", 
+        "numeric": "246"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

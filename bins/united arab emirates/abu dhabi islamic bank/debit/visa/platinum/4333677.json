@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ABU DHABI ISLAMIC BANK", 
+        "phone": "971-2-6100600", 
+        "url": "www.adib.ae"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "AE", 
+        "currency": "AED", 
+        "emoji": "\ud83c\udde6\ud83c\uddea", 
+        "latitude": 24, 
+        "longitude": 54, 
+        "name": "United Arab Emirates", 
+        "numeric": "784"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

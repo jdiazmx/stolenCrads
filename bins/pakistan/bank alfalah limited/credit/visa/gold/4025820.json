@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "BANK ALFALAH LIMITED", 
+        "phone": "111225111"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "PK", 
+        "currency": "PKR", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf0", 
+        "latitude": 30, 
+        "longitude": 70, 
+        "name": "Pakistan", 
+        "numeric": "586"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "CENTRAL TRUST BANK", 
+        "phone": "(573) 634-1302 OR (573) 642-6617 OR (573) 634-1376", 
+        "url": "www.centralbank.net"
+    }, 
+    "brand": "Prepaid Debit Gift", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

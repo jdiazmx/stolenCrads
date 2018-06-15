@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK OF WESTERN AUSTRALIA, LTD.", 
+        "phone": "1300 360 652 OR 13 17 18", 
+        "url": "www.bankwest.com.au"
+    }, 
+    "brand": "Debit Platinum", 
+    "country": {
+        "alpha2": "AU", 
+        "currency": "AUD", 
+        "emoji": "\ud83c\udde6\ud83c\uddfa", 
+        "latitude": -27, 
+        "longitude": 133, 
+        "name": "Australia", 
+        "numeric": "036"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

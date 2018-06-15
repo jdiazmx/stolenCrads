@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "CHASE MANHATTAN BANK USA, N.A.", 
+        "phone": "(713) 262-1896", 
+        "url": "www.chase.com"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "MY", 
+        "currency": "MYR", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfe", 
+        "latitude": 2.5, 
+        "longitude": 112.5, 
+        "name": "Malaysia", 
+        "numeric": "458"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

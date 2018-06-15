@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "VIJAYA BANK", 
+        "phone": "800 425 9992", 
+        "url": "www.vijayabank.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

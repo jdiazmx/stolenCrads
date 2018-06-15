@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "GROUPEMENT CARTE BLEUE", 
+        "phone": "00 33 (0)1 64 27 72 21", 
+        "url": "www.groupecb.fr"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "TR", 
+        "currency": "TRY", 
+        "emoji": "\ud83c\uddf9\ud83c\uddf7", 
+        "latitude": 39, 
+        "longitude": 35, 
+        "name": "Turkey", 
+        "numeric": "792"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

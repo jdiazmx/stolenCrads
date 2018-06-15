@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "BANCO DE LA NACION"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PE", 
+        "currency": "PEN", 
+        "emoji": "\ud83c\uddf5\ud83c\uddea", 
+        "latitude": -10, 
+        "longitude": -76, 
+        "name": "Peru", 
+        "numeric": "604"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

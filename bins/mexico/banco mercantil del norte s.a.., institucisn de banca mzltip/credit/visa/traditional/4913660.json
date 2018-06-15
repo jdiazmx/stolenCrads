@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "BANCO MERCANTIL DEL NORTE S.A.., INSTITUCISN DE BANCA MZLTIP", 
+        "phone": "01 81 8319 7200"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "MX", 
+        "currency": "MXN", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfd", 
+        "latitude": 23, 
+        "longitude": -102, 
+        "name": "Mexico", 
+        "numeric": "484"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "NATIONAL BANK OF GREECE S.A.", 
+        "url": "www.nbg.gr"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "GR", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddec\ud83c\uddf7", 
+        "latitude": 39, 
+        "longitude": 22, 
+        "name": "Greece", 
+        "numeric": "300"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "01 (800) 5230807", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "MX", 
+        "currency": "MXN", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfd", 
+        "latitude": 23, 
+        "longitude": -102, 
+        "name": "Mexico", 
+        "numeric": "484"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

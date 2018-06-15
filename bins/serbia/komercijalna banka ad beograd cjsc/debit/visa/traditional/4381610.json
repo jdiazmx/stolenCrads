@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "KOMERCIJALNA BANKA AD BEOGRAD CJSC"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "RS", 
+        "currency": "RSD", 
+        "emoji": "\ud83c\uddf7\ud83c\uddf8", 
+        "latitude": 44, 
+        "longitude": 21, 
+        "name": "Serbia", 
+        "numeric": "688"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

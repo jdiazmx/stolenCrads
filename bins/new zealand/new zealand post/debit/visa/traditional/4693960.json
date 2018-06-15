@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "NEW ZEALAND POST", 
+        "phone": "0800-501-501", 
+        "url": "www.nzpost.co.nz"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "NZ", 
+        "currency": "NZD", 
+        "emoji": "\ud83c\uddf3\ud83c\uddff", 
+        "latitude": -41, 
+        "longitude": 174, 
+        "name": "New Zealand", 
+        "numeric": "554"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

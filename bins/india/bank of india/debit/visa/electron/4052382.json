@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF INDIA", 
+        "phone": "1800 220 229", 
+        "url": "www.bankofindia.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

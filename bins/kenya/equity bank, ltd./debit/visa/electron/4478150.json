@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "EQUITY BANK, LTD.", 
+        "phone": "020-2744000", 
+        "url": "www.equitybank.co.ke"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "KE", 
+        "currency": "KES", 
+        "emoji": "\ud83c\uddf0\ud83c\uddea", 
+        "latitude": 1, 
+        "longitude": 38, 
+        "name": "Kenya", 
+        "numeric": "404"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,18 @@
+{
+    "bank": {
+        "name": "PING AN BANK CO., LTD."
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "CN", 
+        "currency": "CNY", 
+        "emoji": "\ud83c\udde8\ud83c\uddf3", 
+        "latitude": 35, 
+        "longitude": 105, 
+        "name": "China", 
+        "numeric": "156"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

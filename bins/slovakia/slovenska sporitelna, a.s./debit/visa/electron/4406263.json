@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "SLOVENSKA SPORITELNA, A.S.", 
+        "phone": "+421 910 111 888", 
+        "url": "www.slsp.sk"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "SK", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf8\ud83c\uddf0", 
+        "latitude": 48.6667, 
+        "longitude": 19.5, 
+        "name": "Slovakia", 
+        "numeric": "703"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

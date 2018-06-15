@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "STANDARD CHARTERED BANK ZIMBABWE, LTD.", 
+        "phone": "263 4 752852-8", 
+        "url": "www.standardchartered.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "ZW", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddff\ud83c\uddfc", 
+        "latitude": -20, 
+        "longitude": 30, 
+        "name": "Zimbabwe", 
+        "numeric": "716"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

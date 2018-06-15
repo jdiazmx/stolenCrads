@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "JPMORGAN CHASE BANK, N.A.", 
+        "phone": "416-981-9200", 
+        "url": "www.jpmorganchase.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "NG", 
+        "currency": "NGN", 
+        "emoji": "\ud83c\uddf3\ud83c\uddec", 
+        "latitude": 10, 
+        "longitude": 8, 
+        "name": "Nigeria", 
+        "numeric": "566"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

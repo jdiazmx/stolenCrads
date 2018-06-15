@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "UNITY BANK PLC", 
+        "phone": "90 4616700", 
+        "url": "www.unitybankng.com"
+    }, 
+    "brand": "Pre-paid", 
+    "country": {
+        "alpha2": "NG", 
+        "currency": "NGN", 
+        "emoji": "\ud83c\uddf3\ud83c\uddec", 
+        "latitude": 10, 
+        "longitude": 8, 
+        "name": "Nigeria", 
+        "numeric": "566"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

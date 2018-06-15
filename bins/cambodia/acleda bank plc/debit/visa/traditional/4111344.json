@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ACLEDA BANK PLC", 
+        "phone": "855 (0) 23 994 444", 
+        "url": "www.acledabank.com.kh"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "KH", 
+        "currency": "KHR", 
+        "emoji": "\ud83c\uddf0\ud83c\udded", 
+        "latitude": 13, 
+        "longitude": 105, 
+        "name": "Cambodia", 
+        "numeric": "116"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

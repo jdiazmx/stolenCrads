@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "SWEDBANK, A.S.", 
+        "url": "www.newsroom.swedbank.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "LV", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf1\ud83c\uddfb", 
+        "latitude": 57, 
+        "longitude": 25, 
+        "name": "Latvia", 
+        "numeric": "428"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

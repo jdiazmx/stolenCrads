@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "ALPHA", 
+        "phone": "00302103260000"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "GR", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddec\ud83c\uddf7", 
+        "latitude": 39, 
+        "longitude": 22, 
+        "name": "Greece", 
+        "numeric": "300"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "JPMORGAN CHASE BANK, N.A.", 
+        "phone": "416-981-9200", 
+        "url": "www.jpmorganchase.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "TD", 
+        "currency": "XAF", 
+        "emoji": "\ud83c\uddf9\ud83c\udde9", 
+        "latitude": 15, 
+        "longitude": 19, 
+        "name": "Chad", 
+        "numeric": "148"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF BAHRAIN AND KUWAIT B.S.C.", 
+        "phone": "973 17207777 OR 973 17207772", 
+        "url": "www.bbkonline.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "BH", 
+        "currency": "BHD", 
+        "emoji": "\ud83c\udde7\ud83c\udded", 
+        "latitude": 26, 
+        "longitude": 50.55, 
+        "name": "Bahrain", 
+        "numeric": "048"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

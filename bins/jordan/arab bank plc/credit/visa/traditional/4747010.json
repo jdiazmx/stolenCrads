@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ARAB BANK PLC", 
+        "phone": "4600900", 
+        "url": "www.arabbank.jo"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "JO", 
+        "currency": "JOD", 
+        "emoji": "\ud83c\uddef\ud83c\uddf4", 
+        "latitude": 31, 
+        "longitude": 36, 
+        "name": "Jordan", 
+        "numeric": "400"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

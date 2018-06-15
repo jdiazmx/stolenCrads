@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BARID AL MAGHRIB", 
+        "phone": "537654798", 
+        "url": "www.albaridbank.ma"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "MA", 
+        "currency": "MAD", 
+        "emoji": "\ud83c\uddf2\ud83c\udde6", 
+        "latitude": 32, 
+        "longitude": -5, 
+        "name": "Morocco", 
+        "numeric": "504"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

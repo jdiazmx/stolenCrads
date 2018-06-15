@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AFFIN BANK BERHAD", 
+        "phone": "03-5522 3000", 
+        "url": "www.affinbank.com.my"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "MY", 
+        "currency": "MYR", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfe", 
+        "latitude": 2.5, 
+        "longitude": 112.5, 
+        "name": "Malaysia", 
+        "numeric": "458"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

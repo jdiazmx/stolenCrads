@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF COMMERCE AND DEVELOPMENT (LJSC)", 
+        "phone": "218 61 908 0230", 
+        "url": "www.bcd.ly"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "LY", 
+        "currency": "LYD", 
+        "emoji": "\ud83c\uddf1\ud83c\uddfe", 
+        "latitude": 25, 
+        "longitude": 17, 
+        "name": "Libya", 
+        "numeric": "434"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO DE SANTA CRUZ, S.A.", 
+        "phone": "810 222 7278", 
+        "url": "www.bancosantacruz.com.ar"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AR", 
+        "currency": "ARS", 
+        "emoji": "\ud83c\udde6\ud83c\uddf7", 
+        "latitude": -34, 
+        "longitude": -64, 
+        "name": "Argentina", 
+        "numeric": "032"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

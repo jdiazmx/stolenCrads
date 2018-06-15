@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "DOLLAR BANK, A FEDERAL SAVINGS BANK", 
+        "phone": "1-800-828-5527", 
+        "url": "www.dollarbank.com"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

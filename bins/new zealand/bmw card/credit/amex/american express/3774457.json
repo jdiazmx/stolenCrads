@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BMW CARD", 
+        "phone": "64 9 573 6999", 
+        "url": "www.bmw.co.nz"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "NZ", 
+        "currency": "NZD", 
+        "emoji": "\ud83c\uddf3\ud83c\uddff", 
+        "latitude": -41, 
+        "longitude": 174, 
+        "name": "New Zealand", 
+        "numeric": "554"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANCO NACIONAL DE MEXICO, S.A.", 
+        "phone": "52 5 709 0920", 
+        "url": "www.banamex.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "PT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf9", 
+        "latitude": 39.5, 
+        "longitude": -8, 
+        "name": "Portugal", 
+        "numeric": "620"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

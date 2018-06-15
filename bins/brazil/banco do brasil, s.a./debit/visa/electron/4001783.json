@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO DO BRASIL, S.A.", 
+        "phone": "0800 729 0722", 
+        "url": "www.bb.com.br"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

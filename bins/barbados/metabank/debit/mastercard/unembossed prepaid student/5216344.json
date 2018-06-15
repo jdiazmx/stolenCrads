@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "METABANK", 
+        "phone": "800-554-8969", 
+        "url": "bankmeta.com"
+    }, 
+    "brand": "Unembossed Prepaid Student", 
+    "country": {
+        "alpha2": "BB", 
+        "currency": "BBD", 
+        "emoji": "\ud83c\udde7\ud83c\udde7", 
+        "latitude": 13.1667, 
+        "longitude": -59.5333, 
+        "name": "Barbados", 
+        "numeric": "052"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "BANCO DAYCOVAL, S.A.", 
+        "phone": "0800 775 0500", 
+        "url": "www.daycoval.com.br"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "NL", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf3\ud83c\uddf1", 
+        "latitude": 52.5, 
+        "longitude": 5.75, 
+        "name": "Netherlands", 
+        "numeric": "528"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "MIDWEST PAYMENT SYSTEMS, INC.", 
+        "phone": "716-854-2121"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "EC", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddea\ud83c\udde8", 
+        "latitude": -2, 
+        "longitude": -77.5, 
+        "name": "Ecuador", 
+        "numeric": "218"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ISRAEL CREDIT CARDS, LTD.", 
+        "phone": "360-378-2265", 
+        "url": "www.cal-intl.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IL", 
+        "currency": "ILS", 
+        "emoji": "\ud83c\uddee\ud83c\uddf1", 
+        "latitude": 31.5, 
+        "longitude": 34.75, 
+        "name": "Israel", 
+        "numeric": "376"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

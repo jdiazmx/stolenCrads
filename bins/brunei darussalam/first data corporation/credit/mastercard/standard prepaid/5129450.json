@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "FIRST DATA CORPORATION", 
+        "phone": "+1 888-477-3611", 
+        "url": "www.firstdata.com"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "BN", 
+        "currency": "BND", 
+        "emoji": "\ud83c\udde7\ud83c\uddf3", 
+        "latitude": 4.5, 
+        "longitude": 114.6667, 
+        "name": "Brunei Darussalam", 
+        "numeric": "096"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

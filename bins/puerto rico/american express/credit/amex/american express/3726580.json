@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "1", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "PR", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf7", 
+        "latitude": 18.25, 
+        "longitude": -66.5, 
+        "name": "Puerto Rico", 
+        "numeric": "630"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

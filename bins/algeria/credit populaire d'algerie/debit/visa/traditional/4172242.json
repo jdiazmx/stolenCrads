@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CREDIT POPULAIRE D'ALGERIE", 
+        "phone": "213 21-635684", 
+        "url": "www.cpa-bank.dz"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "DZ", 
+        "currency": "DZD", 
+        "emoji": "\ud83c\udde9\ud83c\uddff", 
+        "latitude": 28, 
+        "longitude": 3, 
+        "name": "Algeria", 
+        "numeric": "012"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

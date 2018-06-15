@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF MAHARASHTRA", 
+        "phone": "1800-233-4526 OR 1800-2337905", 
+        "url": "www.bankofmaharashtra.in"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

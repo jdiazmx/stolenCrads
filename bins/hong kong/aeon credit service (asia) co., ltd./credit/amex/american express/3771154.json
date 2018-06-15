@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AEON CREDIT SERVICE (ASIA) CO., LTD.", 
+        "phone": "2895-6262", 
+        "url": "www.aeon.com.hk"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "HK", 
+        "currency": "HKD", 
+        "emoji": "\ud83c\udded\ud83c\uddf0", 
+        "latitude": 22.25, 
+        "longitude": 114.1667, 
+        "name": "Hong Kong", 
+        "numeric": "344"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

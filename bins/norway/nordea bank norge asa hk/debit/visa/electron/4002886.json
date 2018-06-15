@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "NORDEA BANK NORGE ASA HK", 
+        "phone": "(+47) 2248-5000", 
+        "url": "www.nordea.no"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "NO", 
+        "currency": "NOK", 
+        "emoji": "\ud83c\uddf3\ud83c\uddf4", 
+        "latitude": 62, 
+        "longitude": 10, 
+        "name": "Norway", 
+        "numeric": "578"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

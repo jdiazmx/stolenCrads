@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "UBS (ITALIA) S.P.A.", 
+        "phone": "+39-051-658 681", 
+        "url": "www.ubs.com"
+    }, 
+    "brand": "Debit Other 2 Embossed", 
+    "country": {
+        "alpha2": "IT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf9", 
+        "latitude": 42.8333, 
+        "longitude": 12.8333, 
+        "name": "Italy", 
+        "numeric": "380"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

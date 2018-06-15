@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANKMED S.A.L.", 
+        "phone": "01.70.80.90", 
+        "url": "www.bankmed.com.lb"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "LB", 
+        "currency": "LBP", 
+        "emoji": "\ud83c\uddf1\ud83c\udde7", 
+        "latitude": 33.8333, 
+        "longitude": 35.8333, 
+        "name": "Lebanon", 
+        "numeric": "422"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "COLTEFINANCIERA", 
+        "phone": "40 01800 01800", 
+        "url": "www.coltefinanciera.com.co"
+    }, 
+    "brand": "Signature", 
+    "country": {
+        "alpha2": "CO", 
+        "currency": "COP", 
+        "emoji": "\ud83c\udde8\ud83c\uddf4", 
+        "latitude": 4, 
+        "longitude": -72, 
+        "name": "Colombia", 
+        "numeric": "170"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

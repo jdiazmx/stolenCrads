@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ING BANK SLASKI, S.A.", 
+        "phone": "+48 32 357 70 00", 
+        "url": "en.ingbank.pl"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PL", 
+        "currency": "PLN", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf1", 
+        "latitude": 52, 
+        "longitude": 20, 
+        "name": "Poland", 
+        "numeric": "616"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

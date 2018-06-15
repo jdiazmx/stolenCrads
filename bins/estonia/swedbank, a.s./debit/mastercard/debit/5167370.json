@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "SWEDBANK, A.S.", 
+        "phone": "6 132 222", 
+        "url": "www.swedbank.ee"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "EE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddea\ud83c\uddea", 
+        "latitude": 59, 
+        "longitude": 26, 
+        "name": "Estonia", 
+        "numeric": "233"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "FISERV SOLUTIONS, INC.", 
+        "phone": "262-879-5000", 
+        "url": "www.fiserv.com"
+    }, 
+    "brand": "Debit Business", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

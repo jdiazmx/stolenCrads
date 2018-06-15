@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "AL RAJHI BANKING AND INVESTMENT CORP.", 
+        "phone": "4433 92 000 + 966 OR 33 334 601 +966", 
+        "url": "www.alrajhibank.com.sa"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "SA", 
+        "currency": "SAR", 
+        "emoji": "\ud83c\uddf8\ud83c\udde6", 
+        "latitude": 25, 
+        "longitude": 45, 
+        "name": "Saudi Arabia", 
+        "numeric": "682"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

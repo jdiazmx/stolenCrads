@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "STANDARD CHARTERED BANK", 
+        "phone": "111-002-002", 
+        "url": "www.standardchartered.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "PK", 
+        "currency": "PKR", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf0", 
+        "latitude": 30, 
+        "longitude": 70, 
+        "name": "Pakistan", 
+        "numeric": "586"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

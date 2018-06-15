@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA", 
+        "phone": "902.24.00.28", 
+        "url": "www.db.com"
+    }, 
+    "brand": "Gold Immediate Debit", 
+    "country": {
+        "alpha2": "ES", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddea\ud83c\uddf8", 
+        "latitude": 40, 
+        "longitude": -4, 
+        "name": "Spain", 
+        "numeric": "724"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

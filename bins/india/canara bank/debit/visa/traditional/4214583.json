@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CANARA BANK", 
+        "phone": "080- 22221581 OR 582 OR 0490 OR 0491 OR 1788 OR 1789 OR 1790 OR 1984 OR 1985 OR 1986", 
+        "url": "www.canarabank.in"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

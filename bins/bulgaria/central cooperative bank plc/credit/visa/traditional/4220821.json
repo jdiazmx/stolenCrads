@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CENTRAL COOPERATIVE BANK PLC", 
+        "phone": "00357 22447757", 
+        "url": "www.ccbank.bg"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "BG", 
+        "currency": "BGN", 
+        "emoji": "\ud83c\udde7\ud83c\uddec", 
+        "latitude": 43, 
+        "longitude": 25, 
+        "name": "Bulgaria", 
+        "numeric": "100"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

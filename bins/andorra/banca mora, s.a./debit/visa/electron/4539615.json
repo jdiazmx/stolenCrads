@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCA MORA, S.A.", 
+        "phone": "(+376) 88 48 84", 
+        "url": "www.morabanc.ad"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "AD", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\udde6\ud83c\udde9", 
+        "latitude": 42.5, 
+        "longitude": 1.5, 
+        "name": "Andorra", 
+        "numeric": "020"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO SANTANDER TOTTA, S.A.", 
+        "phone": "707 21 24 24", 
+        "url": "www.santandertotta.pt"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "PT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf9", 
+        "latitude": 39.5, 
+        "longitude": -8, 
+        "name": "Portugal", 
+        "numeric": "620"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

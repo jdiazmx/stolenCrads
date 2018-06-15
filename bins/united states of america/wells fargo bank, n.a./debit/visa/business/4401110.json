@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "WELLS FARGO BANK, N.A.", 
+        "phone": "(907) 543-3875", 
+        "url": "www.wellsfargo.com"
+    }, 
+    "brand": "Business", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "KIWIBANK", 
+        "phone": "0800113355"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "NZ", 
+        "currency": "NZD", 
+        "emoji": "\ud83c\uddf3\ud83c\uddff", 
+        "latitude": -41, 
+        "longitude": 174, 
+        "name": "New Zealand", 
+        "numeric": "554"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

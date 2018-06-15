@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "CARD SERVICES FOR CREDIT UNIONS, INC.", 
+        "phone": "(727) 536-6800 OR 888-930-2728", 
+        "url": "www.cscu.net"
+    }, 
+    "brand": "Debit Platinum", 
+    "country": {
+        "alpha2": "NG", 
+        "currency": "NGN", 
+        "emoji": "\ud83c\uddf3\ud83c\uddec", 
+        "latitude": 10, 
+        "longitude": 8, 
+        "name": "Nigeria", 
+        "numeric": "566"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

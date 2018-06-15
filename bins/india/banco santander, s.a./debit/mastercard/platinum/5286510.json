@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANCO SANTANDER, S.A.", 
+        "phone": "902 11 22 11 OR 34 91 289 00 00", 
+        "url": "www.santander.com"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

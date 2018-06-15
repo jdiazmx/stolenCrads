@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO INTERNACIONAL DE MOCAMBIQUE, S.A.R.L.", 
+        "phone": "258 21 351500", 
+        "url": "www.millenniumbim.co.mz"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "MZ", 
+        "currency": "MZN", 
+        "emoji": "\ud83c\uddf2\ud83c\uddff", 
+        "latitude": -18.25, 
+        "longitude": 35, 
+        "name": "Mozambique", 
+        "numeric": "508"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

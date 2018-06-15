@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK ASIA, LTD.", 
+        "phone": "02- 7110042 OR 7110062 OR 7110147 OR 7110173 OR 7110177 OR 7110218", 
+        "url": "www.bankasia-bd.com"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "BD", 
+        "currency": "BDT", 
+        "emoji": "\ud83c\udde7\ud83c\udde9", 
+        "latitude": 24, 
+        "longitude": 90, 
+        "name": "Bangladesh", 
+        "numeric": "050"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

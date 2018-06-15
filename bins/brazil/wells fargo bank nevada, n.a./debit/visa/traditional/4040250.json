@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "WELLS FARGO BANK NEVADA, N.A.", 
+        "url": "www.wellsfargo.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "PEOPLES TRUST COMPANY", 
+        "phone": "(780) 444-8149"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CA", 
+        "currency": "CAD", 
+        "emoji": "\ud83c\udde8\ud83c\udde6", 
+        "latitude": 60, 
+        "longitude": -95, 
+        "name": "Canada", 
+        "numeric": "124"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

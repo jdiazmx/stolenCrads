@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "KARUR VYSYA BANK, LTD.", 
+        "phone": "1800 102 1916", 
+        "url": "www.kvb.co.in"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

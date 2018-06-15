@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANCO SANTANDER (BRASIL), S.A.", 
+        "phone": "55 (11) 3553 3300", 
+        "url": "www.ri.santander.com.br"
+    }, 
+    "brand": "Platinium", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

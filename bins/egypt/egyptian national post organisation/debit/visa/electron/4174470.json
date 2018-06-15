@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "EGYPTIAN NATIONAL POST ORGANISATION", 
+        "phone": "44 (0)207 582 5220", 
+        "url": "www.balancingact-africa.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "EG", 
+        "currency": "EGP", 
+        "emoji": "\ud83c\uddea\ud83c\uddec", 
+        "latitude": 27, 
+        "longitude": 30, 
+        "name": "Egypt", 
+        "numeric": "818"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

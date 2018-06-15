@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "UNIBANCA, S.A", 
+        "phone": "80042121"
+    }, 
+    "brand": "Prepaid", 
+    "country": {
+        "alpha2": "PE", 
+        "currency": "PEN", 
+        "emoji": "\ud83c\uddf5\ud83c\uddea", 
+        "latitude": -10, 
+        "longitude": -76, 
+        "name": "Peru", 
+        "numeric": "604"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "BANK MILLENNIUM, S.A.", 
+        "phone": "801 331 331 OR 48 22 598 40 40", 
+        "url": "www.bankmillennium.pl"
+    }, 
+    "brand": "Prepaid", 
+    "country": {
+        "alpha2": "PL", 
+        "currency": "PLN", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf1", 
+        "latitude": 52, 
+        "longitude": 20, 
+        "name": "Poland", 
+        "numeric": "616"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

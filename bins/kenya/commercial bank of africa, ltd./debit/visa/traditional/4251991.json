@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "COMMERCIAL BANK OF AFRICA, LTD.", 
+        "phone": "(0)20 2884000", 
+        "url": "www.cbagroup.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "KE", 
+        "currency": "KES", 
+        "emoji": "\ud83c\uddf0\ud83c\uddea", 
+        "latitude": 1, 
+        "longitude": 38, 
+        "name": "Kenya", 
+        "numeric": "404"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

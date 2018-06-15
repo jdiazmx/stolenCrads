@@ -1,0 +1,18 @@
+{
+    "bank": {
+        "name": "T.C. ZIRAAT BANKASI, A.S."
+    }, 
+    "brand": "Platinium", 
+    "country": {
+        "alpha2": "TR", 
+        "currency": "TRY", 
+        "emoji": "\ud83c\uddf9\ud83c\uddf7", 
+        "latitude": 39, 
+        "longitude": 35, 
+        "name": "Turkey", 
+        "numeric": "792"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

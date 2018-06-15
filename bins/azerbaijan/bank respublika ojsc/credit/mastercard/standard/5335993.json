@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK RESPUBLIKA OJSC", 
+        "phone": "(+994 12) 598 08 00", 
+        "url": "en.bank.abc.az"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "AZ", 
+        "currency": "AZN", 
+        "emoji": "\ud83c\udde6\ud83c\uddff", 
+        "latitude": 40.5, 
+        "longitude": 47.5, 
+        "name": "Azerbaijan", 
+        "numeric": "031"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

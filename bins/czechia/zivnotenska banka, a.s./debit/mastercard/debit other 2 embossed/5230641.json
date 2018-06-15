@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "ZIVNOTENSKA BANKA, A.S.", 
+        "phone": "800 521 521", 
+        "url": "www.kb.cz"
+    }, 
+    "brand": "Debit Other 2 Embossed", 
+    "country": {
+        "alpha2": "CZ", 
+        "currency": "CZK", 
+        "emoji": "\ud83c\udde8\ud83c\uddff", 
+        "latitude": 49.75, 
+        "longitude": 15.5, 
+        "name": "Czechia", 
+        "numeric": "203"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

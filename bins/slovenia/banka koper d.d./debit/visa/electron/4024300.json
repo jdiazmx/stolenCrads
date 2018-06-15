@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANKA KOPER D.D.", 
+        "phone": "080 13 18 OR (386 5) 666 10 00", 
+        "url": "www.banka-koper.si"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "SI", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf8\ud83c\uddee", 
+        "latitude": 46, 
+        "longitude": 15, 
+        "name": "Slovenia", 
+        "numeric": "705"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

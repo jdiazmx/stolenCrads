@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "NEWCASTLE BUILDING SOCIETY", 
+        "phone": "0845-604-144", 
+        "url": "www.newcastle.co.uk"
+    }, 
+    "brand": "Unembossed Prepaid Student", 
+    "country": {
+        "alpha2": "GB", 
+        "currency": "GBP", 
+        "emoji": "\ud83c\uddec\ud83c\udde7", 
+        "latitude": 54, 
+        "longitude": -2, 
+        "name": "United Kingdom of Great Britain and Northern Ireland", 
+        "numeric": "826"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

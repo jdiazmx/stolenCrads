@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK KERJASAMA RAKYAT MALAYSIA BERHAD", 
+        "phone": "03-2612-9600 OR +603-21179000", 
+        "url": "www.bankrakyat.com.my"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "MY", 
+        "currency": "MYR", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfe", 
+        "latitude": 2.5, 
+        "longitude": 112.5, 
+        "name": "Malaysia", 
+        "numeric": "458"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

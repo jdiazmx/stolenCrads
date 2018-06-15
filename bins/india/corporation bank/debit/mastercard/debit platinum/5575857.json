@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "CORPORATION BANK", 
+        "phone": "044 24348635", 
+        "url": "www.corpbank.com"
+    }, 
+    "brand": "Debit Platinum", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

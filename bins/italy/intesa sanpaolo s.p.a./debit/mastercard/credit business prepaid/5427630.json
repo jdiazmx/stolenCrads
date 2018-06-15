@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "INTESA SANPAOLO S.P.A.", 
+        "phone": "+ 387 33 49 75 55", 
+        "url": "www.intesasanpaolo.com"
+    }, 
+    "brand": "Credit Business Prepaid", 
+    "country": {
+        "alpha2": "IT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf9", 
+        "latitude": 42.8333, 
+        "longitude": 12.8333, 
+        "name": "Italy", 
+        "numeric": "380"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

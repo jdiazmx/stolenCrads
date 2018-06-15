@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO COOPERATIVO ESPANOL, S.A.", 
+        "phone": "902 310 902", 
+        "url": "www.ruralvia.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "ES", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddea\ud83c\uddf8", 
+        "latitude": 40, 
+        "longitude": -4, 
+        "name": "Spain", 
+        "numeric": "724"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

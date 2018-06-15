@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF GUAM", 
+        "phone": "(671) 472-5300", 
+        "url": "www.bankofguam.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "GU", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddec\ud83c\uddfa", 
+        "latitude": 13.4667, 
+        "longitude": 144.7833, 
+        "name": "Guam", 
+        "numeric": "316"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

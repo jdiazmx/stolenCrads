@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "CITIBANK (TRINIDAD AND TOBAGO), LTD.", 
+        "phone": "(868) 821 - 6095", 
+        "url": "www.latam.citibank.com"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "TT", 
+        "currency": "TTD", 
+        "emoji": "\ud83c\uddf9\ud83c\uddf9", 
+        "latitude": 11, 
+        "longitude": -61, 
+        "name": "Trinidad and Tobago", 
+        "numeric": "780"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

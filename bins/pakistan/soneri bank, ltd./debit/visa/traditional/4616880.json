@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "SONERI BANK, LTD.", 
+        "phone": "(92-42) 35713101-04", 
+        "url": "www.soneribank.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PK", 
+        "currency": "PKR", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf0", 
+        "latitude": 30, 
+        "longitude": 70, 
+        "name": "Pakistan", 
+        "numeric": "586"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

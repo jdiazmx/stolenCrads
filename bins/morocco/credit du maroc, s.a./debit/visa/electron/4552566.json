@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CREDIT DU MAROC, S.A.", 
+        "phone": "0 810 00 36 16", 
+        "url": "www.cdm.co.ma"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "MA", 
+        "currency": "MAD", 
+        "emoji": "\ud83c\uddf2\ud83c\udde6", 
+        "latitude": 32, 
+        "longitude": -5, 
+        "name": "Morocco", 
+        "numeric": "504"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

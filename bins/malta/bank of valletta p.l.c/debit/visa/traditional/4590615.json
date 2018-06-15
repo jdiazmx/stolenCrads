@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF VALLETTA P.L.C", 
+        "phone": "(00356) 2131 2020", 
+        "url": "www.bov.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "MT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf2\ud83c\uddf9", 
+        "latitude": 35.8333, 
+        "longitude": 14.5833, 
+        "name": "Malta", 
+        "numeric": "470"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

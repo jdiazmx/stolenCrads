@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "NATIONAL AUSTRALIA BANK", 
+        "phone": "(+61) 3 8641-9083", 
+        "url": "www.nab.com.au"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "AU", 
+        "currency": "AUD", 
+        "emoji": "\ud83c\udde6\ud83c\uddfa", 
+        "latitude": -27, 
+        "longitude": 133, 
+        "name": "Australia", 
+        "numeric": "036"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

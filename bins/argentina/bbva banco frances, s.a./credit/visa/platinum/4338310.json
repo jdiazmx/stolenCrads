@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BBVA BANCO FRANCES, S.A.", 
+        "phone": "54-11-43464000", 
+        "url": "www.bancofrances.com.ar"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "AR", 
+        "currency": "ARS", 
+        "emoji": "\ud83c\udde6\ud83c\uddf7", 
+        "latitude": -34, 
+        "longitude": -64, 
+        "name": "Argentina", 
+        "numeric": "032"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

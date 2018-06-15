@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "SOCIETE GENERALE DE BANQUES EN COTE D'IVOIRE (SGBCI)", 
+        "phone": "225 20.20.12.34", 
+        "url": "www.sgbci.ci"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CI", 
+        "currency": "XOF", 
+        "emoji": "\ud83c\udde8\ud83c\uddee", 
+        "latitude": 8, 
+        "longitude": -5, 
+        "name": "C\u00f4te d'Ivoire", 
+        "numeric": "384"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

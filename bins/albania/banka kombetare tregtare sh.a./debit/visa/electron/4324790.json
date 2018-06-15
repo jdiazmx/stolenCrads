@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANKA KOMBETARE TREGTARE SH.A.", 
+        "phone": "355 422 50955 OR 4 22 66 288", 
+        "url": "www.bkt.com.al"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "AL", 
+        "currency": "ALL", 
+        "emoji": "\ud83c\udde6\ud83c\uddf1", 
+        "latitude": 41, 
+        "longitude": 20, 
+        "name": "Albania", 
+        "numeric": "008"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

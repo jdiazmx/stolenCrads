@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "UNITED OVERSEAS BANK, LTD.", 
+        "phone": "1800 222 2121", 
+        "url": "www.uob.com.sg"
+    }, 
+    "brand": "Corporate", 
+    "country": {
+        "alpha2": "SG", 
+        "currency": "SGD", 
+        "emoji": "\ud83c\uddf8\ud83c\uddec", 
+        "latitude": 1.3667, 
+        "longitude": 103.8, 
+        "name": "Singapore", 
+        "numeric": "702"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

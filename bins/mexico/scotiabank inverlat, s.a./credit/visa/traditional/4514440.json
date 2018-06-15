@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "SCOTIABANK INVERLAT, S.A.", 
+        "phone": "5728-1900", 
+        "url": "www.scotiabankinverlat.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "MX", 
+        "currency": "MXN", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfd", 
+        "latitude": 23, 
+        "longitude": -102, 
+        "name": "Mexico", 
+        "numeric": "484"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

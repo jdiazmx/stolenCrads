@@ -1,0 +1,18 @@
+{
+    "bank": {
+        "name": "KENYA COMMERCIAL BANK LTD. (KCB)"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "KE", 
+        "currency": "KES", 
+        "emoji": "\ud83c\uddf0\ud83c\uddea", 
+        "latitude": 1, 
+        "longitude": 38, 
+        "name": "Kenya", 
+        "numeric": "404"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

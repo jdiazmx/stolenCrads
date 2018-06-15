@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "JORDAN AHLI BANK", 
+        "phone": "06- 5007777", 
+        "url": "www.ahli.com"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "IQ", 
+        "currency": "IQD", 
+        "emoji": "\ud83c\uddee\ud83c\uddf6", 
+        "latitude": 33, 
+        "longitude": 44, 
+        "name": "Iraq", 
+        "numeric": "368"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

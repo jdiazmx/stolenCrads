@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "AMERICAN EXPRESS", 
+        "phone": "0018001110006", 
+        "url": "www.americanexpress.com"
+    }, 
+    "brand": "american express", 
+    "country": {
+        "alpha2": "PA", 
+        "currency": "PAB", 
+        "emoji": "\ud83c\uddf5\ud83c\udde6", 
+        "latitude": 9, 
+        "longitude": -80, 
+        "name": "Panama", 
+        "numeric": "591"
+    }, 
+    "number": {}, 
+    "scheme": "amex", 
+    "type": "credit"
+}

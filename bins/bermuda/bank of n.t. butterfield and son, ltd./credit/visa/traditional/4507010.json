@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "BANK OF N.T. BUTTERFIELD AND SON, LTD."
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "BM", 
+        "currency": "BMD", 
+        "emoji": "\ud83c\udde7\ud83c\uddf2", 
+        "latitude": 32.3333, 
+        "longitude": -64.75, 
+        "name": "Bermuda", 
+        "numeric": "060"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

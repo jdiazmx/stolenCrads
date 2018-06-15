@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "IBERCAJA (CAJA DE AHORROS Y MONTE DE PIEDAD DE ZARAGOZA ARAG"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "ES", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddea\ud83c\uddf8", 
+        "latitude": 40, 
+        "longitude": -4, 
+        "name": "Spain", 
+        "numeric": "724"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "CREDIT UNION SERVICES CORPORATION (AUSTRALIA) LIMITED", 
+        "phone": "133282"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AU", 
+        "currency": "AUD", 
+        "emoji": "\ud83c\udde6\ud83c\uddfa", 
+        "latitude": -27, 
+        "longitude": 133, 
+        "name": "Australia", 
+        "numeric": "036"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

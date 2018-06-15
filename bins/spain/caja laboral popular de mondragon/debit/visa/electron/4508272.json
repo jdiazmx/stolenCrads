@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CAJA LABORAL POPULAR DE MONDRAGON", 
+        "phone": "34 943 71 95 00", 
+        "url": "www.cajalaboral.es"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "ES", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddea\ud83c\uddf8", 
+        "latitude": 40, 
+        "longitude": -4, 
+        "name": "Spain", 
+        "numeric": "724"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BEAVER VALLEY F.C.U.", 
+        "phone": "724-847-3600 OR 724-774-5050", 
+        "url": "www.beavervalleyfcu.org"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

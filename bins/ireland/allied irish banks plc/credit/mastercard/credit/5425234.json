@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "ALLIED IRISH BANKS PLC", 
+        "phone": "35316600311", 
+        "url": "www.aib.ie"
+    }, 
+    "brand": "Credit", 
+    "country": {
+        "alpha2": "IE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddea", 
+        "latitude": 53, 
+        "longitude": -8, 
+        "name": "Ireland", 
+        "numeric": "372"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

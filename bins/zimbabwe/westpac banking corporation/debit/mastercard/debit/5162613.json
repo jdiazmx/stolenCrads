@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "WESTPAC BANKING CORPORATION", 
+        "phone": "1300 134 291", 
+        "url": "www.westpac.com.au"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "ZW", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddff\ud83c\uddfc", 
+        "latitude": -20, 
+        "longitude": 30, 
+        "name": "Zimbabwe", 
+        "numeric": "716"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "BANCO INTERACCIONES, S.A.", 
+        "phone": "01 55 5326 8600", 
+        "url": "www.interacciones.com"
+    }, 
+    "brand": "Credit Business Prepaid", 
+    "country": {
+        "alpha2": "FI", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddeb\ud83c\uddee", 
+        "latitude": 64, 
+        "longitude": 26, 
+        "name": "Finland", 
+        "numeric": "246"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

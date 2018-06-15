@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ZAMBIA NATIONAL COMMERCIAL BANK, LTD.", 
+        "phone": "260 1 238880", 
+        "url": "www.zanaco.co.zm"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "ZM", 
+        "currency": "ZMW", 
+        "emoji": "\ud83c\uddff\ud83c\uddf2", 
+        "latitude": -15, 
+        "longitude": 30, 
+        "name": "Zambia", 
+        "numeric": "894"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

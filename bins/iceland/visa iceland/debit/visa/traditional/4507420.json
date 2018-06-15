@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "VISA ICELAND", 
+        "phone": "1-800-345-6541", 
+        "url": "iceland.visahq.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IS", 
+        "currency": "ISK", 
+        "emoji": "\ud83c\uddee\ud83c\uddf8", 
+        "latitude": 65, 
+        "longitude": -18, 
+        "name": "Iceland", 
+        "numeric": "352"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

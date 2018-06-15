@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "AMERICA CALIFORNIA BANK", 
+        "phone": "415-986-5678", 
+        "url": "www.acbank.com"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

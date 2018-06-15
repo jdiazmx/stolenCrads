@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "FIRST USA BANK, N.A.", 
+        "phone": "(985) 785-8411", 
+        "url": "www.fnbusa.com"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "CD", 
+        "currency": "CDF", 
+        "emoji": "\ud83c\udde8\ud83c\udde9", 
+        "latitude": 0, 
+        "longitude": 25, 
+        "name": "Congo (Democratic Republic of the)", 
+        "numeric": "180"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

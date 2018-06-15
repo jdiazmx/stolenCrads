@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "AMERIABANK CJSC", 
+        "url": "www.ameriabank.am"
+    }, 
+    "brand": "Gold", 
+    "country": {
+        "alpha2": "AM", 
+        "currency": "AMD", 
+        "emoji": "\ud83c\udde6\ud83c\uddf2", 
+        "latitude": 40, 
+        "longitude": 45, 
+        "name": "Armenia", 
+        "numeric": "051"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

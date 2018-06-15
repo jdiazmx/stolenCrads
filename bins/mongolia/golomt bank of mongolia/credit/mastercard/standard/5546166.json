@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "GOLOMT BANK OF MONGOLIA", 
+        "phone": "030 809721-0", 
+        "url": "www.golomtbank.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "MN", 
+        "currency": "MNT", 
+        "emoji": "\ud83c\uddf2\ud83c\uddf3", 
+        "latitude": 46, 
+        "longitude": 105, 
+        "name": "Mongolia", 
+        "numeric": "496"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

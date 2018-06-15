@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "FIRST DATA CORPORATION", 
+        "phone": "+1 888-477-3611", 
+        "url": "www.firstdata.com"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

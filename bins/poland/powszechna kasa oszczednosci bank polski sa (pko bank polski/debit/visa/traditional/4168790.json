@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI", 
+        "phone": "801 302 302", 
+        "url": "www.pkobp.pl"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PL", 
+        "currency": "PLN", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf1", 
+        "latitude": 52, 
+        "longitude": 20, 
+        "name": "Poland", 
+        "numeric": "616"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

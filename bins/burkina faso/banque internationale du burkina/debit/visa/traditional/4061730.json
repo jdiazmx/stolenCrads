@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANQUE INTERNATIONALE DU BURKINA", 
+        "phone": "226 50 30 00 00", 
+        "url": "www.bib.bf"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "BF", 
+        "currency": "XOF", 
+        "emoji": "\ud83c\udde7\ud83c\uddeb", 
+        "latitude": 13, 
+        "longitude": -2, 
+        "name": "Burkina Faso", 
+        "numeric": "854"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "OCEANIC BANK", 
+        "phone": "(+234) 8063-262265", 
+        "url": "www.ecobank.com"
+    }, 
+    "brand": "Unembossed Prepaid Student", 
+    "country": {
+        "alpha2": "IQ", 
+        "currency": "IQD", 
+        "emoji": "\ud83c\uddee\ud83c\uddf6", 
+        "latitude": 33, 
+        "longitude": 44, 
+        "name": "Iraq", 
+        "numeric": "368"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

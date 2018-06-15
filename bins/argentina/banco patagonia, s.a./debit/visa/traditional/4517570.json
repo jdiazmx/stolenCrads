@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO PATAGONIA, S.A.", 
+        "phone": "0810-999-6655 OR 0810-888-8500", 
+        "url": "www.bancopatagonia.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AR", 
+        "currency": "ARS", 
+        "emoji": "\ud83c\udde6\ud83c\uddf7", 
+        "latitude": -34, 
+        "longitude": -64, 
+        "name": "Argentina", 
+        "numeric": "032"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "FIRST DATA GLOBAL SERVICES", 
+        "phone": "1 404 890-2000", 
+        "url": "www.firstdata.com"
+    }, 
+    "brand": "Prepaid", 
+    "country": {
+        "alpha2": "GB", 
+        "currency": "GBP", 
+        "emoji": "\ud83c\uddec\ud83c\udde7", 
+        "latitude": 54, 
+        "longitude": -2, 
+        "name": "United Kingdom of Great Britain and Northern Ireland", 
+        "numeric": "826"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

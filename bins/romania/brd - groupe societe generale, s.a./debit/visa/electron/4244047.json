@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BRD - GROUPE SOCIETE GENERALE, S.A.", 
+        "phone": "4 021 301 61 00 OR 4 021 301 49 55", 
+        "url": "www.brd.ro"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "RO", 
+        "currency": "RON", 
+        "emoji": "\ud83c\uddf7\ud83c\uddf4", 
+        "latitude": 46, 
+        "longitude": 25, 
+        "name": "Romania", 
+        "numeric": "642"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,25 @@
+{
+    "bank": {
+        "city": "Dublin", 
+        "name": "BANK OF IRELAND", 
+        "phone": "+353 567757007", 
+        "url": "www.bankofireland.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddea", 
+        "latitude": 53, 
+        "longitude": -8, 
+        "name": "Ireland", 
+        "numeric": "372"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO SANTANDER, S.A.", 
+        "phone": "4004-3535 OR 0800 702 3535", 
+        "url": "www.santander.com.br"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "DASHEN BANK S.C.", 
+        "phone": "251-11-553 3874", 
+        "url": "www.dashenbanksc.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "ET", 
+        "currency": "ETB", 
+        "emoji": "\ud83c\uddea\ud83c\uddf9", 
+        "latitude": 8, 
+        "longitude": 38, 
+        "name": "Ethiopia", 
+        "numeric": "231"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

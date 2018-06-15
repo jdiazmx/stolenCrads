@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "ST. KITTS-NEVIS-ANGUILLA NATIONAL BANK, LTD."
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "KN", 
+        "currency": "XCD", 
+        "emoji": "\ud83c\uddf0\ud83c\uddf3", 
+        "latitude": 17.3333, 
+        "longitude": -62.75, 
+        "name": "Saint Kitts and Nevis", 
+        "numeric": "659"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

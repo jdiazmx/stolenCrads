@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "LOYOLA UNIVERSITY EMPLOYEES F.C.U.", 
+        "phone": "(708) 216-4500", 
+        "url": "www.luefcu.org"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

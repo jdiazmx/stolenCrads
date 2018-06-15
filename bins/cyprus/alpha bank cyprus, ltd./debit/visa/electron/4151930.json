@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ALPHA BANK CYPRUS, LTD.", 
+        "phone": "22 877 477", 
+        "url": "www.alphabank.com.cy"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "CY", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\udde8\ud83c\uddfe", 
+        "latitude": 35, 
+        "longitude": 33, 
+        "name": "Cyprus", 
+        "numeric": "196"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

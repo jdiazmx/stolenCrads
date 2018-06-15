@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "HDFC BANK, LTD.", 
+        "phone": "+91 (11) 41115111", 
+        "url": "www.hdfcbank.com"
+    }, 
+    "brand": "Business", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

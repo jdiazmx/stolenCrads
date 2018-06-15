@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "BANCO AFRICANO INVESTIMENTOS SARL", 
+        "url": "www.bancobai.ao"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "AO", 
+        "currency": "AOA", 
+        "emoji": "\ud83c\udde6\ud83c\uddf4", 
+        "latitude": -12.5, 
+        "longitude": 18.5, 
+        "name": "Angola", 
+        "numeric": "024"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

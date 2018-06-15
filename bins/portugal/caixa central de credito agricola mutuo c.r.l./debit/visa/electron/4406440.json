@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CAIXA CENTRAL DE CREDITO AGRICOLA MUTUO C.R.L.", 
+        "phone": "351 21 380 9900 386 0006", 
+        "url": "www.credito-agricola.pt"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "PT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf9", 
+        "latitude": 39.5, 
+        "longitude": -8, 
+        "name": "Portugal", 
+        "numeric": "620"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

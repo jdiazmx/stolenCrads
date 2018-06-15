@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "NATIONAL BANK OF EGYPT", 
+        "url": "www.nbe.com.eg"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "EG", 
+        "currency": "EGP", 
+        "emoji": "\ud83c\uddea\ud83c\uddec", 
+        "latitude": 27, 
+        "longitude": 30, 
+        "name": "Egypt", 
+        "numeric": "818"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

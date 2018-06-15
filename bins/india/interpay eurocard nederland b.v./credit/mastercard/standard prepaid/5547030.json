@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "INTERPAY EUROCARD NEDERLAND B.V.", 
+        "url": "www.interpay.nl"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

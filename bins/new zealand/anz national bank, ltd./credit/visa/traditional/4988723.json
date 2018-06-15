@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ANZ NATIONAL BANK, LTD.", 
+        "phone": "0800 269 296", 
+        "url": "www.anz.co.nz"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "NZ", 
+        "currency": "NZD", 
+        "emoji": "\ud83c\uddf3\ud83c\uddff", 
+        "latitude": -41, 
+        "longitude": 174, 
+        "name": "New Zealand", 
+        "numeric": "554"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

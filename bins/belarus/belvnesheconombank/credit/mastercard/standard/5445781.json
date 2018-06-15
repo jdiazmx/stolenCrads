@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BELVNESHECONOMBANK", 
+        "phone": "(+375 17) 209-29-44 OR (+375 29) 309-29-44 OR 704-29-44", 
+        "url": "eng.bveb.by"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "BY", 
+        "currency": "BYR", 
+        "emoji": "\ud83c\udde7\ud83c\uddfe", 
+        "latitude": 53, 
+        "longitude": 28, 
+        "name": "Belarus", 
+        "numeric": "112"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

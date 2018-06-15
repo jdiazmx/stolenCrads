@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "EASTERN CARIBBEAN CO-OPERATIVE"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "VC", 
+        "currency": "XCD", 
+        "emoji": "\ud83c\uddfb\ud83c\udde8", 
+        "latitude": 13.25, 
+        "longitude": -61.2, 
+        "name": "Saint Vincent and the Grenadines", 
+        "numeric": "670"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

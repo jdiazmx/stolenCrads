@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANK OF THE PHILIPPINE ISLANDS", 
+        "phone": "63-2-818-5541-48 OR 800-188-89100", 
+        "url": "www.bpiexpressonline.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "PH", 
+        "currency": "PHP", 
+        "emoji": "\ud83c\uddf5\ud83c\udded", 
+        "latitude": 13, 
+        "longitude": 122, 
+        "name": "Philippines", 
+        "numeric": "608"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

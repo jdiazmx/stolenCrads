@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "NLB MONTENEGROBANK A.D. PODGORICA"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "ME", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf2\ud83c\uddea", 
+        "latitude": 42, 
+        "longitude": 19, 
+        "name": "Montenegro", 
+        "numeric": "499"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "IRISH LIFE AND PERMANENT PLC", 
+        "phone": "908-859-1811", 
+        "url": "www.permanenttsbgroup.ie"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "IE", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddea", 
+        "latitude": 53, 
+        "longitude": -8, 
+        "name": "Ireland", 
+        "numeric": "372"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

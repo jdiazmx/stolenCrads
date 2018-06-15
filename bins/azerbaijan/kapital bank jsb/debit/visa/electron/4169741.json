@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "KAPITAL BANK JSB", 
+        "phone": "(+994 12) 493 66 30", 
+        "url": "www.kapitalbank.az"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "AZ", 
+        "currency": "AZN", 
+        "emoji": "\ud83c\udde6\ud83c\uddff", 
+        "latitude": 40.5, 
+        "longitude": 47.5, 
+        "name": "Azerbaijan", 
+        "numeric": "031"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

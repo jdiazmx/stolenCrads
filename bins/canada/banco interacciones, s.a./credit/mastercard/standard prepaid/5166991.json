@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "BANCO INTERACCIONES, S.A.", 
+        "phone": "01 55 5326 8600", 
+        "url": "www.interacciones.com"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "CA", 
+        "currency": "CAD", 
+        "emoji": "\ud83c\udde8\ud83c\udde6", 
+        "latitude": 60, 
+        "longitude": -95, 
+        "name": "Canada", 
+        "numeric": "124"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BBVA BANCOMER, S.A.", 
+        "phone": "01 55 5669 2155", 
+        "url": "www.bancomer.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "MX", 
+        "currency": "MXN", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfd", 
+        "latitude": 23, 
+        "longitude": -102, 
+        "name": "Mexico", 
+        "numeric": "484"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

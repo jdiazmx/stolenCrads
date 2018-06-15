@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "BANKCARD SERVICE JAPAN CO., LTD."
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "GH", 
+        "currency": "GHS", 
+        "emoji": "\ud83c\uddec\ud83c\udded", 
+        "latitude": 8, 
+        "longitude": -2, 
+        "name": "Ghana", 
+        "numeric": "288"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

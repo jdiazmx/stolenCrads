@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "AS DNB NORD BANKA", 
+        "phone": "67 07 7117", 
+        "url": "www.dnb.lv"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "LV", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf1\ud83c\uddfb", 
+        "latitude": 57, 
+        "longitude": 25, 
+        "name": "Latvia", 
+        "numeric": "428"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

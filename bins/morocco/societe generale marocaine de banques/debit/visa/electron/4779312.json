@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "SOCIETE GENERALE MAROCAINE DE BANQUES", 
+        "phone": "522424243", 
+        "url": "www.sgmaroc.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "MA", 
+        "currency": "MAD", 
+        "emoji": "\ud83c\uddf2\ud83c\udde6", 
+        "latitude": 32, 
+        "longitude": -5, 
+        "name": "Morocco", 
+        "numeric": "504"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

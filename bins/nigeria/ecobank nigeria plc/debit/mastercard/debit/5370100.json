@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "ECOBANK NIGERIA PLC", 
+        "phone": "233 (0) 302 213999", 
+        "url": "www.ecobank.com"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "NG", 
+        "currency": "NGN", 
+        "emoji": "\ud83c\uddf3\ud83c\uddec", 
+        "latitude": 10, 
+        "longitude": 8, 
+        "name": "Nigeria", 
+        "numeric": "566"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

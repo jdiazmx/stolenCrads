@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANCO LUSO BRASILEIRO, S.A.", 
+        "phone": "55 11 3039 1507", 
+        "url": "www.lusobrasileiro.com.br"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

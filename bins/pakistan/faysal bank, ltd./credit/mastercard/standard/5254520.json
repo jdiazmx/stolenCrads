@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "FAYSAL BANK, LTD.", 
+        "phone": "111 747 747", 
+        "url": "www.faysalbank.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "PK", 
+        "currency": "PKR", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf0", 
+        "latitude": 30, 
+        "longitude": 70, 
+        "name": "Pakistan", 
+        "numeric": "586"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

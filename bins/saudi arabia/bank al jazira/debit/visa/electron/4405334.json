@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK AL JAZIRA", 
+        "phone": "(966) 2 609 8888", 
+        "url": "www.baj.com.sa"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "SA", 
+        "currency": "SAR", 
+        "emoji": "\ud83c\uddf8\ud83c\udde6", 
+        "latitude": 25, 
+        "longitude": 45, 
+        "name": "Saudi Arabia", 
+        "numeric": "682"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

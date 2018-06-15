@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "GOLOMT BANK OF MONGOLIA", 
+        "phone": "030 809721-0", 
+        "url": "www.golomtbank.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "MN", 
+        "currency": "MNT", 
+        "emoji": "\ud83c\uddf2\ud83c\uddf3", 
+        "latitude": 46, 
+        "longitude": 105, 
+        "name": "Mongolia", 
+        "numeric": "496"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

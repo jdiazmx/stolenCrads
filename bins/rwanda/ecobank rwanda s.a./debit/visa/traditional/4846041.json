@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "ECOBANK RWANDA S.A."
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "RW", 
+        "currency": "RWF", 
+        "emoji": "\ud83c\uddf7\ud83c\uddfc", 
+        "latitude": -2, 
+        "longitude": 30, 
+        "name": "Rwanda", 
+        "numeric": "646"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

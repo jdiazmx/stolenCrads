@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "STANBIC BANK BOTSWANA, LTD.", 
+        "phone": "0800 600 675", 
+        "url": "www.stanbicbank.co.bw"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "BW", 
+        "currency": "BWP", 
+        "emoji": "\ud83c\udde7\ud83c\uddfc", 
+        "latitude": -22, 
+        "longitude": 24, 
+        "name": "Botswana", 
+        "numeric": "072"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

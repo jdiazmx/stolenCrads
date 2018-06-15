@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "NABIL BANK, LTD.", 
+        "phone": "(804) 222-1307"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "NP", 
+        "currency": "NPR", 
+        "emoji": "\ud83c\uddf3\ud83c\uddf5", 
+        "latitude": 28, 
+        "longitude": 84, 
+        "name": "Nepal", 
+        "numeric": "524"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "ICICI BANK CANADA", 
+        "phone": "(416) 298-9222", 
+        "url": "www.icicibank.ca"
+    }, 
+    "brand": "maestro", 
+    "country": {
+        "alpha2": "CA", 
+        "currency": "CAD", 
+        "emoji": "\ud83c\udde8\ud83c\udde6", 
+        "latitude": 60, 
+        "longitude": -95, 
+        "name": "Canada", 
+        "numeric": "124"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

@@ -1,0 +1,18 @@
+{
+    "bank": {
+        "name": "NORWEST BANK IOWA N.A."
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "KR", 
+        "currency": "KRW", 
+        "emoji": "\ud83c\uddf0\ud83c\uddf7", 
+        "latitude": 37, 
+        "longitude": 127.5, 
+        "name": "Korea (Republic of)", 
+        "numeric": "410"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

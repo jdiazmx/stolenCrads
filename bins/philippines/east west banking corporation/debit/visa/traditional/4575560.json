@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "EAST WEST BANKING CORPORATION", 
+        "phone": "888-1700", 
+        "url": "www.eastwestbanker.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PH", 
+        "currency": "PHP", 
+        "emoji": "\ud83c\uddf5\ud83c\udded", 
+        "latitude": 13, 
+        "longitude": 122, 
+        "name": "Philippines", 
+        "numeric": "608"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

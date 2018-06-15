@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO EXTERIOR, C.A.", 
+        "phone": "58 212 501 00 88", 
+        "url": "www.bancoexterior.com"
+    }, 
+    "brand": "Signature", 
+    "country": {
+        "alpha2": "VE", 
+        "currency": "VEF", 
+        "emoji": "\ud83c\uddfb\ud83c\uddea", 
+        "latitude": 8, 
+        "longitude": -66, 
+        "name": "Venezuela (Bolivarian Republic of)", 
+        "numeric": "862"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

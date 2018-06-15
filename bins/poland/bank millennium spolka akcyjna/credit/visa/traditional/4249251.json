@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK MILLENNIUM SPOLKA AKCYJNA", 
+        "phone": "801 331 331 OR 48 22 598 40 40", 
+        "url": "www.bankmillennium.pl"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "PL", 
+        "currency": "PLN", 
+        "emoji": "\ud83c\uddf5\ud83c\uddf1", 
+        "latitude": 52, 
+        "longitude": 20, 
+        "name": "Poland", 
+        "numeric": "616"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

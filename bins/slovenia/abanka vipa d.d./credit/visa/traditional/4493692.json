@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "ABANKA VIPA D.D.", 
+        "phone": "(+386 1) 471 81 00", 
+        "url": "www.abanka.si"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "SI", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddf8\ud83c\uddee", 
+        "latitude": 46, 
+        "longitude": 15, 
+        "name": "Slovenia", 
+        "numeric": "705"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

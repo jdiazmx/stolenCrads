@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "TD CANADA TRUST BANK", 
+        "phone": "(905) 881-8090", 
+        "url": "www.tdcanadatrust.com"
+    }, 
+    "brand": "Platinum", 
+    "country": {
+        "alpha2": "TZ", 
+        "currency": "TZS", 
+        "emoji": "\ud83c\uddf9\ud83c\uddff", 
+        "latitude": -6, 
+        "longitude": 35, 
+        "name": "Tanzania, United Republic of", 
+        "numeric": "834"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

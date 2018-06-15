@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO DE GUAYAQUIL, S.A.", 
+        "phone": "593 4 251 7100", 
+        "url": "www.bancoguayaquil.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "EC", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddea\ud83c\udde8", 
+        "latitude": -2, 
+        "longitude": -77.5, 
+        "name": "Ecuador", 
+        "numeric": "218"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

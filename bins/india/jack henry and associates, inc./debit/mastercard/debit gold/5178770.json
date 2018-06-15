@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "JACK HENRY AND ASSOCIATES, INC.", 
+        "phone": "417.235.6652", 
+        "url": "www.jackhenry.com"
+    }, 
+    "brand": "Debit Gold", 
+    "country": {
+        "alpha2": "IN", 
+        "currency": "INR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf3", 
+        "latitude": 20, 
+        "longitude": 77, 
+        "name": "India", 
+        "numeric": "356"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

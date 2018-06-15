@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "HOME TRUST COMPANY", 
+        "phone": "416-360-4663", 
+        "url": "www.hometrust.ca"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CA", 
+        "currency": "CAD", 
+        "emoji": "\ud83c\udde8\ud83c\udde6", 
+        "latitude": 60, 
+        "longitude": -95, 
+        "name": "Canada", 
+        "numeric": "124"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

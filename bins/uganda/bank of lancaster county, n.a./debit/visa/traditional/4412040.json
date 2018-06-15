@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF LANCASTER COUNTY, N.A.", 
+        "phone": "(800) 435-1140", 
+        "url": "www.bankoflancaster.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "UG", 
+        "currency": "UGX", 
+        "emoji": "\ud83c\uddfa\ud83c\uddec", 
+        "latitude": 1, 
+        "longitude": 32, 
+        "name": "Uganda", 
+        "numeric": "800"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

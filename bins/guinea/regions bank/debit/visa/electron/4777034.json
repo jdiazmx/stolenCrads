@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "REGIONS BANK", 
+        "phone": "1-800-734-4667", 
+        "url": "www.regions.com"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "GN", 
+        "currency": "GNF", 
+        "emoji": "\ud83c\uddec\ud83c\uddf3", 
+        "latitude": 11, 
+        "longitude": -10, 
+        "name": "Guinea", 
+        "numeric": "324"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

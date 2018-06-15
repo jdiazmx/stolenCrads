@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "KUWAIT FINANCE HOUSE", 
+        "phone": "+973 7777 7777", 
+        "url": "www.kfh.bh"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "BH", 
+        "currency": "BHD", 
+        "emoji": "\ud83c\udde7\ud83c\udded", 
+        "latitude": 26, 
+        "longitude": 50.55, 
+        "name": "Bahrain", 
+        "numeric": "048"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

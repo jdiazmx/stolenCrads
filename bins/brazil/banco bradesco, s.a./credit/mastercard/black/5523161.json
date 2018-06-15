@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "BANCO BRADESCO, S.A.", 
+        "phone": "40020022", 
+        "url": "www.bradesco.com.br"
+    }, 
+    "brand": "Black", 
+    "country": {
+        "alpha2": "BR", 
+        "currency": "BRL", 
+        "emoji": "\ud83c\udde7\ud83c\uddf7", 
+        "latitude": -10, 
+        "longitude": -55, 
+        "name": "Brazil", 
+        "numeric": "076"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

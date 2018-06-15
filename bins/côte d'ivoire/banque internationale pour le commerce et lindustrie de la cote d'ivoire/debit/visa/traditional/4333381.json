@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET LINDUSTRIE DE LA COTE D'IVOIRE", 
+        "phone": "23651 - 23643 - 23870 OR 20 20 16 00", 
+        "url": "www.bicicinet.net"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CI", 
+        "currency": "XOF", 
+        "emoji": "\ud83c\udde8\ud83c\uddee", 
+        "latitude": 8, 
+        "longitude": -5, 
+        "name": "C\u00f4te d'Ivoire", 
+        "numeric": "384"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

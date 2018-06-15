@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANCO POPULAR Y DE DESARROLLO COMUNAL", 
+        "phone": "506 2211 7118", 
+        "url": "www.popularenlinea.fi.cr"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "CR", 
+        "currency": "CRC", 
+        "emoji": "\ud83c\udde8\ud83c\uddf7", 
+        "latitude": 10, 
+        "longitude": -84, 
+        "name": "Costa Rica", 
+        "numeric": "188"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "U.S. BANK N.A. ND"
+    }, 
+    "brand": "Business", 
+    "country": {
+        "alpha2": "AE", 
+        "currency": "AED", 
+        "emoji": "\ud83c\udde6\ud83c\uddea", 
+        "latitude": 24, 
+        "longitude": 54, 
+        "name": "United Arab Emirates", 
+        "numeric": "784"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

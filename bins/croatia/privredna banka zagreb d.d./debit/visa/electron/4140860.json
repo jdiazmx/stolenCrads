@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "PRIVREDNA BANKA ZAGREB D.D.", 
+        "phone": "(0800)365-365", 
+        "url": "www.pbz.hr"
+    }, 
+    "brand": "Electron", 
+    "country": {
+        "alpha2": "HR", 
+        "currency": "HRK", 
+        "emoji": "\ud83c\udded\ud83c\uddf7", 
+        "latitude": 45.1667, 
+        "longitude": 15.5, 
+        "name": "Croatia", 
+        "numeric": "191"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

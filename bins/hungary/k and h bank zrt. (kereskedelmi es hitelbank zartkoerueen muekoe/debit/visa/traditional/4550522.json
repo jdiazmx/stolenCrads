@@ -1,0 +1,22 @@
+{
+    "bank": {
+        "name": "K AND H BANK ZRT. (KERESKEDELMI ES HITELBANK ZARTKOERUEEN MUEKOE"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "HU", 
+        "currency": "HUF", 
+        "emoji": "\ud83c\udded\ud83c\uddfa", 
+        "latitude": 47, 
+        "longitude": 20, 
+        "name": "Hungary", 
+        "numeric": "348"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

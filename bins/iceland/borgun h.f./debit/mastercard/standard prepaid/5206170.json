@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "BORGUN H.F.", 
+        "phone": "560 1600 OR 533 1400", 
+        "url": "www.borgun.is"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "IS", 
+        "currency": "ISK", 
+        "emoji": "\ud83c\uddee\ud83c\uddf8", 
+        "latitude": 65, 
+        "longitude": -18, 
+        "name": "Iceland", 
+        "numeric": "352"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

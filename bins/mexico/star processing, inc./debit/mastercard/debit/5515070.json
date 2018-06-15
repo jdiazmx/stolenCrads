@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "STAR PROCESSING, INC.", 
+        "phone": "+1 (416) 535-2424", 
+        "url": "www.starprocessing.com"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "MX", 
+        "currency": "MXN", 
+        "emoji": "\ud83c\uddf2\ud83c\uddfd", 
+        "latitude": 23, 
+        "longitude": -102, 
+        "name": "Mexico", 
+        "numeric": "484"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

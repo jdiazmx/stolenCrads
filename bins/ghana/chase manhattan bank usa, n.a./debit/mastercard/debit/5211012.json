@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "CHASE MANHATTAN BANK USA, N.A.", 
+        "phone": "(713) 262-1896", 
+        "url": "www.chase.com"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "GH", 
+        "currency": "GHS", 
+        "emoji": "\ud83c\uddec\ud83c\udded", 
+        "latitude": 8, 
+        "longitude": -2, 
+        "name": "Ghana", 
+        "numeric": "288"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

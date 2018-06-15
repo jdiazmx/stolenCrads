@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "BANCO NACIONAL DE MEXICO, S.A.", 
+        "phone": "52 5 709 0920", 
+        "url": "www.banamex.com"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "HU", 
+        "currency": "HUF", 
+        "emoji": "\ud83c\udded\ud83c\uddfa", 
+        "latitude": 47, 
+        "longitude": 20, 
+        "name": "Hungary", 
+        "numeric": "348"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

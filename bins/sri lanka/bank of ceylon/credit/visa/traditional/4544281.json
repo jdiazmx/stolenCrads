@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "BANK OF CEYLON", 
+        "phone": "094 11 2446790-811 OR 094 11 2338741 OR 55", 
+        "url": "www.boc.lk"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "LK", 
+        "currency": "LKR", 
+        "emoji": "\ud83c\uddf1\ud83c\uddf0", 
+        "latitude": 7, 
+        "longitude": 81, 
+        "name": "Sri Lanka", 
+        "numeric": "144"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "credit"
+}

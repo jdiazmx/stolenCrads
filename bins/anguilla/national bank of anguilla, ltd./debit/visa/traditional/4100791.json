@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "NATIONAL BANK OF ANGUILLA, LTD.", 
+        "phone": "(264) 497-2101", 
+        "url": "www.nba.ai"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "AI", 
+        "currency": "XCD", 
+        "emoji": "\ud83c\udde6\ud83c\uddee", 
+        "latitude": 18.25, 
+        "longitude": -63.1667, 
+        "name": "Anguilla", 
+        "numeric": "660"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

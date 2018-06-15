@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "HEART OF LOUISIANA F.C.U.", 
+        "phone": "800-264-4562 OR 318-473-4562", 
+        "url": "www.heartcu.org"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "US", 
+        "currency": "USD", 
+        "emoji": "\ud83c\uddfa\ud83c\uddf8", 
+        "latitude": 38, 
+        "longitude": -97, 
+        "name": "United States of America", 
+        "numeric": "840"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

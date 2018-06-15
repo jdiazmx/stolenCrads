@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "TURKIYE VAKIFLAR BANKASI T.A.O.", 
+        "phone": "0312 455 7851", 
+        "url": "www.vakifbank.com.tr"
+    }, 
+    "brand": "Credit", 
+    "country": {
+        "alpha2": "TR", 
+        "currency": "TRY", 
+        "emoji": "\ud83c\uddf9\ud83c\uddf7", 
+        "latitude": 39, 
+        "longitude": 35, 
+        "name": "Turkey", 
+        "numeric": "792"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

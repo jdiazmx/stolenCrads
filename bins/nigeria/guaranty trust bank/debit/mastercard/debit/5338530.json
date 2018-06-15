@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "GUARANTY TRUST BANK", 
+        "phone": "234-1-4480000 OR 080 29002900 OR 080 390039"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "NG", 
+        "currency": "NGN", 
+        "emoji": "\ud83c\uddf3\ud83c\uddec", 
+        "latitude": 10, 
+        "longitude": 8, 
+        "name": "Nigeria", 
+        "numeric": "566"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

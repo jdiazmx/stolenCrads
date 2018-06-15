@@ -1,0 +1,24 @@
+{
+    "bank": {
+        "name": "CITIZENS BANKING COMPANY", 
+        "phone": "877-224-8493", 
+        "url": "www.citizensbankco.com"
+    }, 
+    "brand": "Traditional", 
+    "country": {
+        "alpha2": "JO", 
+        "currency": "JOD", 
+        "emoji": "\ud83c\uddef\ud83c\uddf4", 
+        "latitude": 31, 
+        "longitude": 36, 
+        "name": "Jordan", 
+        "numeric": "400"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": true, 
+    "scheme": "visa", 
+    "type": "debit"
+}

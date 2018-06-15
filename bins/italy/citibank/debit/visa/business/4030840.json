@@ -1,0 +1,23 @@
+{
+    "bank": {
+        "name": "CITIBANK", 
+        "phone": "39 02 8647 4483"
+    }, 
+    "brand": "Business", 
+    "country": {
+        "alpha2": "IT", 
+        "currency": "EUR", 
+        "emoji": "\ud83c\uddee\ud83c\uddf9", 
+        "latitude": 42.8333, 
+        "longitude": 12.8333, 
+        "name": "Italy", 
+        "numeric": "380"
+    }, 
+    "number": {
+        "length": 16, 
+        "luhn": true
+    }, 
+    "prepaid": false, 
+    "scheme": "visa", 
+    "type": "debit"
+}

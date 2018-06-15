@@ -1,0 +1,21 @@
+{
+    "bank": {
+        "name": "CSCBANK S.A.L.", 
+        "phone": "961) 1 742 555", 
+        "url": "www.issuers.com"
+    }, 
+    "brand": "Standard Prepaid", 
+    "country": {
+        "alpha2": "AF", 
+        "currency": "AFN", 
+        "emoji": "\ud83c\udde6\ud83c\uddeb", 
+        "latitude": 33, 
+        "longitude": 65, 
+        "name": "Afghanistan", 
+        "numeric": "004"
+    }, 
+    "number": {}, 
+    "prepaid": true, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

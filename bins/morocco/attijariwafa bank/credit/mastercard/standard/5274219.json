@@ -1,0 +1,19 @@
+{
+    "bank": {
+        "name": "ATTIJARIWAFA BANK", 
+        "url": "www.attijariwafabank.com"
+    }, 
+    "brand": "Standard", 
+    "country": {
+        "alpha2": "MA", 
+        "currency": "MAD", 
+        "emoji": "\ud83c\uddf2\ud83c\udde6", 
+        "latitude": 32, 
+        "longitude": -5, 
+        "name": "Morocco", 
+        "numeric": "504"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "credit"
+}

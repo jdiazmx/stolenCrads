@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "TURKIYE GARANTI BANKASI A. S.", 
+        "phone": "90 212 318 18 18", 
+        "url": "www.garanti.com.tr"
+    }, 
+    "brand": "Debit", 
+    "country": {
+        "alpha2": "TR", 
+        "currency": "TRY", 
+        "emoji": "\ud83c\uddf9\ud83c\uddf7", 
+        "latitude": 39, 
+        "longitude": 35, 
+        "name": "Turkey", 
+        "numeric": "792"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}

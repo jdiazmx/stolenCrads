@@ -1,0 +1,20 @@
+{
+    "bank": {
+        "name": "WESTPAC BANKING CORPORATION", 
+        "phone": "1300 134 291", 
+        "url": "www.westpac.com.au"
+    }, 
+    "brand": "Debit Platinum", 
+    "country": {
+        "alpha2": "GH", 
+        "currency": "GHS", 
+        "emoji": "\ud83c\uddec\ud83c\udded", 
+        "latitude": 8, 
+        "longitude": -2, 
+        "name": "Ghana", 
+        "numeric": "288"
+    }, 
+    "number": {}, 
+    "scheme": "mastercard", 
+    "type": "debit"
+}
